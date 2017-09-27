@@ -2,14 +2,21 @@ label: Bestellungen
 type: structure
 modalsize: large
 entry: >
-  {{nachricht}}
+  Bestellung von <a href="mailto:{{email}}"><b>{{full_name}}</b></a>:<br>
+  <br>
+  {{nachricht}}<br>
+  <br>
+  Telefon - {{email}}<br>
+  Datum - {{datum}}<br>
+  Art - {{art}}<br>
+  vegan - {{vegan}}
 fields:
   full_name:
     label: Name
     type: text
     width: 3/4
   vegan:
-    label: Vegan?
+    label: vegan?
     type: text
     width: 1/4
   email:

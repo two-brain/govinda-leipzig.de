@@ -3,7 +3,8 @@
   left: -9999px;
 }
 
-.form__mesage,
-.form__alter {
-  margin-top: 2 * $base-spacing;
+.form-result {
+  text-align: center;
+  padding: 2 * $base-spacing 0;
+  font-weight: 700;
 }

@@ -3,3 +3,74 @@ Title: Govinda - Vegan + Vegetarisch
 ----
 
 Mail: info@govinda-leipzig.de
+
+----
+
+Orders: 
+
+- 
+  full_name: VEGAN
+  email: a@a.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: "0"
+  nachricht: dadad
+- 
+  full_name: NVEGAN
+  email: a@a.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: "0"
+  nachricht: dadad
+- 
+  full_name: a
+  email: a@a.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: vegan
+  nachricht: VEGAN
+- 
+  full_name: a
+  email: a@a.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: "0"
+  nachricht: NVEGAN
+- 
+  full_name: a
+  email: a@a.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: vegan
+  nachricht: VEGAN
+- 
+  full_name: Max Mustermann
+  email: max@mustermann.de
+  telefon: 01234 / 567890
+  datum: 01.01.2018
+  art: Musterung
+  vegan: nein
+  nachricht: |
+    Liebes Team,
+    brauche veganes Buffet!
+    
+    MfG
+    Max Mustermann
+- 
+  full_name: Max Mustermann
+  email: max@mustermann.de
+  telefon: 01234 / 567890
+  datum: 01.01.2018
+  art: Musterung
+  vegan: ja
+  nachricht: |
+    Liebes Team,
+    brauche echtes veganes Buffet!
+    
+    MfG
+    Max Mustermann
