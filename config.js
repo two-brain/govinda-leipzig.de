@@ -22,8 +22,8 @@ module.exports = {
       'IE >= 9',
     ],
     include: [
-      // 'node_modules',
-      // 'bower_components'
+      'node_modules',
+      // 'bower_components',
     ],
   },
   scripts: {

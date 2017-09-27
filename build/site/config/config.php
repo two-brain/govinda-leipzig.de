@@ -1,5 +1,7 @@
 <?php
 
+include kirby()->roots()->config() . '/languages.php';
+
 /*
 
 ---------------------------------------
@@ -29,8 +31,8 @@ Multi-environment-setup, see here: https://getkirby.com/docs/developer-guide/con
 */
 
 c::set('debug', true);
-// c::set('environment', 'development');
 c::set('fingerprint', false);
+c::set('thumbs.driver', 'im');
 
 /*
 

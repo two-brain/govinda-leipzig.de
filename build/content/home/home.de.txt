@@ -1,0 +1,55 @@
+Title: Home
+
+----
+
+Text: 
+
+----
+
+Promo: 
+
+- 
+  title: Angebot
+  image: unser-angebot.jpg
+  text: >
+    Habt Ihr schon mal Pakoras oder Laddhus
+    probiert? Wir lieben die alte indische
+    Kochkunst mit ihrer unvergänglichen
+    Weisheit. Unsere rein veganen und
+    vegetarischen Speisen verbinden
+    westliche Gepflogenheiten mit der
+    kulinarischen Tradition Indiens.
+  category: unser-angebot
+  link: unser-angebot
+- 
+  title: Catering
+  image: catering.jpg
+  text: >
+    Geburtstag, Hochzeit, Tagung oder
+    Firmenjubiläum – wir sorgen für das
+    kulinarische Wohl Eurer Gäste. Nach
+    einer individuellen Beratung und Auswahl
+    der Speisen kreieren wir mit hohem
+    Qualitätsanspruch das Buffet, gern auch
+    rein vegan oder in Bio-Qualität.
+  category: ""
+  link: catering
+- 
+  title: Galerie
+  image: galerie.jpg
+  text: >
+    Wir bieten schonend zubereitete,
+    vegetarische Kost für Kinder, die
+    wertvoll und abwechslungsreich ist. Die
+    von uns gelieferten Speisen sind
+    kindgerecht und werden täglich
+    unmittelbar vor dem Ausliefern mit
+    frischen, saisonalen Zutaten zubereitet.
+  category: ""
+  link: galerie
+- 
+  title: Festivals
+  image: festivals.jpg
+  text: 'Mit unserem farbenfrohen Imbisswagen oder lauschigem Festivalzelt samt unseren leckeren Speisen besuchen wir auch Euer Event. Unser Team besteht aus sympatischen, miteinander eingespielten Leuten und arbeitet ganz nach dem Motto: We rock it!'
+  category: ""
+  link: festivals

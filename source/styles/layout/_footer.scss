@@ -1,0 +1,58 @@
+$facebook-blue: #3c5a99;
+
+.site-footer {
+  border-top: $base-border;
+  text-align: center;
+  display: inline-block;
+  padding: $base-spacing 0 $small-spacing;
+  width: 100%;
+}
+
+.footer-details {
+  @include grid-media($large) {
+    float: left;
+    text-align: left;
+  }
+}
+
+.facebook {
+  color: $medium-gray;
+  line-height: 0;
+  margin-right: 0.5em;
+  border: 0;
+
+  &:hover {
+    color: $facebook-blue;
+  }
+
+  svg {
+    vertical-align: middle;
+  }
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  line-height: 1;
+  padding: $small-spacing 0;
+
+  a {
+    font-size: 0.8em;
+    display: table;
+
+    + a {
+      margin-left: $base-spacing;
+      margin-top: $small-spacing;
+
+      @include grid-media($large) {
+        margin-top: 0;
+      }
+    }
+  }
+
+  @include grid-media($large) {
+    flex-direction: row;
+    float: right;
+  }
+}

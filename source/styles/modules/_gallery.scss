@@ -1,0 +1,23 @@
+$gallery-item-padding: 3px;
+
+.gallery {
+  margin-top: 2 * $base-spacing;
+  text-align: center;
+
+  &__item {
+    border: 0;
+    margin: $gallery-item-padding;
+    display: inline-block;
+
+    img {
+      border: $base-border;
+      @include card(1);
+      transition: box-shadow $base-duration $base-timing;
+      padding: $gallery-item-padding;
+
+      &:hover {
+        @include card(2);
+      }
+    }
+  }
+}

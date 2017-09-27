@@ -1,0 +1,48 @@
+Title: Bestellformular
+
+----
+
+Text: 
+
+# Unverbindliche Anfrage
+Über das Bestelltformular könnt Ihr uns direkt und unverbindlich Eure Wünsche und Anfragen für Euer Catering mitteilen. Wir werden Euch dann mit einem ersten Angebot kontaktieren.
+
+## Wichtig zu wissen wäre:
+- Wann und wo findet die Veranstaltung statt?
+- Für wie viele Personen und für welchen Personenkreis (Kinder, Senioren, Firma, Messepublikum etc.) ist das Menü?
+- Soll das Menü nur aus biologischen, veganen oder vegetarischen Produkten bestehen?
+- Wie viele Gänge sollen enthalten sein (Snacks, Fingerfood, Vorspeisen, wie viele unterschiedliche Hauptgangvariationen, Nachspeisen)?
+- Bauen wir das Buffet auf? Benötigt Ihr Geschirr oder Servicepersonal?
+- Oder sollen wir nur die Speisen und Getränke liefern?
+
+----
+
+Side: 
+
+- 
+  text: |
+    ### Ansprechpartner
+    Daniel Fiskal
+    catering(ät)govinda-leipzig.de
+    Telefon: 0178 - 3831551
+
+----
+
+Orders: 
+
+- 
+  full_name: dadadad
+  email: haha@sick.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: ""
+  nachricht: fasfasf
+- 
+  full_name: haha
+  email: aha@sick.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: ""
+  nachricht: SICKOSHOT

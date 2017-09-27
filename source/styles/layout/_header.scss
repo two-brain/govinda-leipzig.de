@@ -1,0 +1,53 @@
+.site-header {
+  text-align: center;
+  padding-top: 1.5 * $base-spacing;
+}
+
+.header-logo {
+  border: 0;
+}
+
+.header-image {
+  margin-top: $base-spacing;
+  border-radius: $base-border-radius $base-border-radius 0 0;
+  display: block;
+}
+
+.nav {
+  text-align: left;
+  margin: 0;
+  padding: 2% 15%;
+  padding-top: 1.5 * $base-spacing;
+  border-radius: 0 0 $base-border-radius $base-border-radius;
+  background-color: $green;
+
+  @include grid-media($medium) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 80px 60px 4px;
+  }
+
+  @each $header-nav-slug, $header-nav-bg-color, $header-nav-link-color in zip($header-nav-slug, $header-nav-bg-colors, $header-nav-link-colors) {
+    .#{$header-nav-slug} & {
+      background-color: $header-nav-bg-color;
+    }
+    .#{$header-nav-slug} &__link {
+      color: $header-nav-link-color;
+    }
+  }
+
+  &__link {
+    font-size: 20px;
+    display: block;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border: 0;
+    color: $green--shaded;
+
+    &:hover,
+    &.is-active {
+      color: $white;
+    }
+  }
+}

@@ -1,14 +1,24 @@
 @import
   'vendor/bourbon/bourbon',
   'vendor/neat/neat',
+  'utility/mixins',
   'utility/settings',
   'utility/normalize',
   'utility/reset',
+  'base/layout',
   'base/buttons',
   'base/forms',
-  'base/layout',
   'base/lists',
   'base/media',
   'base/tables',
-  'base/typography'
+  'base/typography',
+  'layout/header',
+  'layout/content',
+  'layout/footer',
+  'modules/gallery',
+  'modules/order-form',
+  'pages/home',
+  'vendor/flex',
+  'vendor/baguettebox',
+  'baguettebox.js/src/baguetteBox.scss'
 ;

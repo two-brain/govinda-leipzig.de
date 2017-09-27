@@ -1,8 +1,13 @@
+$header-nav-bg-color--generic: #99a623;
+
 html {
   color: $base-font-color;
   font-family: $base-font-family;
   font-size: 100%;
   line-height: $base-line-height;
+  // -moz-osx-font-smoothing: grayscale;
+  // -webkit-font-smoothing: antialiased;
+  // text-rendering: optimizeLegibility;
 }
 
 h1,
@@ -14,7 +19,19 @@ h6 {
   font-family: $heading-font-family;
   font-size: modular-scale(1);
   line-height: $heading-line-height;
-  margin: 0 0 $small-spacing;
+  margin: $small-spacing 0 $small-spacing / 3;
+  color: $header-nav-bg-color--generic;
+
+  @each $site-slug, $signature-color in $signature-colors {
+    .#{$site-slug} & {
+      color: $signature-color;
+    }
+  }
+}
+
+h1 {
+  font-size: modular-scale(3);
+  margin-bottom: 0.5em;
 }
 
 p {
@@ -22,18 +39,19 @@ p {
 }
 
 a {
-  color: $action-color;
-  text-decoration-skip: ink;
+  color: $base-font-color;
+  text-decoration: none;
   transition: color $base-duration $base-timing;
+  border-bottom: 1px dotted $base-font-color;
 
   &:hover {
-    color: shade($action-color, 25%);
+    color: shade($base-font-color, 15%);
   }
 
-  &:focus {
-    outline: $focus-outline;
-    outline-offset: $focus-outline-offset;
-  }
+  // &:focus {
+  //   outline: $focus-outline;
+  //   outline-offset: $focus-outline-offset;
+  // }
 }
 
 hr {

@@ -1,0 +1,36 @@
+Title: Catering
+
+----
+
+Text: 
+
+# Catering einmal anders!
+Wir stellen Euch für jeden Anlass eine reiche Auswahl internationaler Spezialitäten zusammen. Überrascht Eure Gäste mit einem delikaten und besonderen Geschmackserlebnis.
+
+## Unser Service
+- individuelle Menüplanung – gerne in unserem Bistro bei einem Chai (ab Mai 2014)
+- Lieferung im Umkreis von Leipzig bis zu 2,5 Stunden entfernt
+- Lieferung frei Haus in Leipzig
+- Mindestbestellwert von 200,00 € zzgl. der Mehrwertsteuer
+
+## Auf Wunsch
+- ausschließlich vegan oder in Bio-Qualität
+- gerne übernehmen wir nur den vegetarischen Teil eines Buffets
+- Buffetaufbau vor Ort
+- Bereitstellung von Servicepersonal
+- Geschirr und Partyzubehör auf Anfrage
+
+----
+
+Side: 
+
+- 
+  text: |
+    ### Ansprechpartner
+    Daniel Fiskal
+    catering(ät)govinda-leipzig.de
+    Telefon: 0178 - 3831551
+- 
+  text: |
+    ### Jetzt bestellen
+    Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).

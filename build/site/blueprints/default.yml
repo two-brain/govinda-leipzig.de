@@ -1,7 +1,21 @@
-title: Page
+title: Seite
 
-pages: false
+pages: true
 files: true
+  fields:
+    img_title:
+      label: Name
+      type: text
+    img_desc:
+      label: Beschreibung
+      type: textarea
+
+options:
+  preview: true
+  status: true
+  template: true
+  url: true
+  delete: false
 
 fields:
   title:
@@ -9,4 +23,5 @@ fields:
     type:  text
   text:
     label: Text
-    type:  markdown
+    type:  textarea
+  side: sidebar

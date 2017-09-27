@@ -1,0 +1,73 @@
+$content-top-spacing: 2 * $base-spacing;
+
+main {
+  @include grid-container;
+  // @include grid-visual;
+  margin: $content-top-spacing 0 $base-spacing;
+}
+
+.page {
+  border-top: $base-border;
+  padding-top: $small-spacing;
+}
+
+.wrap {
+  @include grid-media($large) {
+    @include grid-collapse;
+  }
+}
+
+.content {
+  border-top: $base-border;
+  padding-top: $small-spacing;
+
+  @include grid-media($large) {
+    @include grid-column(8);
+  }
+}
+
+.sidebar {
+  margin-top: 2 * $base-spacing;
+  border-top: $base-border;
+  padding-top: $base-spacing;
+
+  align-items: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+
+  @include grid-media($large) {
+    @include grid-column(4);
+    display: block;
+    text-align: left;
+    margin-top: $small-spacing;
+    border-top: 0;
+    border-left: $base-border;
+    padding-left: $base-spacing;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-bottom: $small-spacing / 3;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  &__item {
+    display: block;
+    align-self: stretch;
+    flex: 2 2 14em;
+
+    & + & {
+      margin-top: $small-spacing;
+
+      @include grid-media($large) {
+        margin-top: $base-spacing;
+      }
+    }
+  }
+}

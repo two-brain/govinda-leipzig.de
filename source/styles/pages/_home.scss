@@ -1,0 +1,50 @@
+.promo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  &__item {
+    width: 214px;
+
+    @each $site-slug, $signature-color in $signature-colors {
+      &--#{$site-slug} h2 {
+        background: $signature-color;
+      }
+
+      &--#{$site-slug} p {
+        color: $signature-color;
+      }
+    }
+  }
+
+  &__link {
+    display: inline-block;
+    margin-bottom: 1.5 * $small-spacing;
+    border: 0;
+
+    img {
+      opacity: 1;
+      transition: opacity $base-duration $base-timing;
+      vertical-align: bottom;
+      border-radius: $base-border-radius $base-border-radius 0 0;
+    }
+
+    &:hover img {
+      opacity: 0.75;
+    }
+
+    h2 {
+      color: $white;
+      font-weight: 400;
+      letter-spacing: 2px;
+      margin: 0;
+      padding: 70px 10px 4px;
+      text-transform: uppercase;
+      border-radius: 0 0 $base-border-radius $base-border-radius;
+    }
+  }
+
+  p {
+    font-size: 15px;
+  }
+}

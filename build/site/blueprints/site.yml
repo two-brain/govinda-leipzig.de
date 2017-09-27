@@ -1,0 +1,14 @@
+title: Einstellungen
+
+pages: true
+files: true
+
+fields:
+  title:
+    label: Name der Website
+    type:  text
+    width: 2/3
+  mail:
+    label: E-Mail
+    type: email
+    width: 1/3

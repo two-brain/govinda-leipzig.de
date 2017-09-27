@@ -1,9 +1,5 @@
-// Breakpoints
-$medium-screen: 600px;
-$large-screen: 900px;
-
 // Typography
-$base-font-family: $font-stack-system;
+$base-font-family: 'Merriweather', Arial, sans-serif;
 $heading-font-family: $base-font-family;
 
 // Line height
@@ -18,13 +14,16 @@ $base-z-index: 0;
 
 // Colors
 $blue: #1565c0;
-$dark-gray: #333;
+$dark-gray: #4a4a4a;
 $medium-gray: #999;
-$light-gray: #ddd;
+$light-gray: #eee;
+$white: #fff;
+$green: #99a623;
+$green--shaded: #b7c065;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$action-color: $blue;
+$action-color: $base-font-color;
 
 // Border
 $base-border-color: $light-gray;
@@ -41,5 +40,56 @@ $focus-outline: $focus-outline-width solid $focus-outline-color;
 $focus-outline-offset: 2px;
 
 // Animations
-$base-duration: 150ms;
+$base-duration: 200ms;
 $base-timing: ease;
+
+
+// Signature Colors
+$signature-colors: ('unser-angebot': #ab251a, 'catering': #c36912, 'galerie': #f05500, 'festivals': #e79122, 'kontakt': #99a623);
+
+// Navigation-related Colors
+$header-nav-slug: unser-angebot, catering, galerie, festivals, kontakt, generic_green;
+$header-nav-bg-colors: #ab251a, #c36912, #f05500, #e79122, #99a623, #99a623;
+$header-nav-link-colors: #c4665e, #d59659, #f9bcb7, #ffb45e, #b7c065, #b7c065;
+
+// Contact-Form-7-related Colors
+$wpcf7-forms: ('catering': #c36912, 'kontakt': #99a623);
+
+// Breakpoints
+$small-screen: 480px;
+$medium-screen: 800px;
+$large-screen: 1024px;
+// $xlarge-screen: 1200px;
+$gutter: $base-spacing;
+$gutter-small: $small-spacing;
+
+// Grid
+// $neat-grid: (
+//   columns: 12,
+//   gutter: $gutter,
+//   media: $xlarge-screen
+// );
+
+$small: (
+  columns: 12,
+  // gutter: $gutter-small,
+  media: $small-screen
+);
+
+$promo: (
+  columns: 4,
+  gutter: 44px / 4,
+  // media: $small-screen
+);
+
+$medium: (
+  columns: 12,
+  // gutter: $gutter,
+  media: $medium-screen
+);
+
+$large: (
+  columns: 12,
+  // gutter: 0,
+  media: $large-screen
+);

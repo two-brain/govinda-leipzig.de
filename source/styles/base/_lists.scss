@@ -1,8 +1,27 @@
 ul,
 ol {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin-bottom: $small-spacing;
+  margin-left: $small-spacing;
+  position: relative;
+
+  li {
+  padding-left: $small-spacing;
+
+  &::before {
+    position: absolute;
+    content: '▪';
+    left: 0;
+    color: $green;
+
+    @each $site-slug, $signature-color in $signature-colors {
+      .#{$site-slug} & {
+        color: $signature-color;
+      }
+    }
+  }
+}
+
 }
 
 dl {

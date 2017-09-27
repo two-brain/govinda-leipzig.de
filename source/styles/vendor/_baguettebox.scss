@@ -1,0 +1,15 @@
+#close-button {
+  background: transparent;
+  border: 0;
+  outline: 0;
+
+  svg g {
+    stroke: $medium-gray;
+  }
+
+  @each $site-slug, $signature-color in $signature-colors {
+    .#{$site-slug} &:hover svg g {
+      stroke: $signature-color;
+    }
+  }
+}

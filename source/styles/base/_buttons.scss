@@ -1,15 +1,14 @@
 #{$all-buttons} {
   appearance: none;
-  background-color: $action-color;
   border: 0;
   border-radius: $base-border-radius;
-  color: #fff;
+  color: $white;
   cursor: pointer;
   display: inline-block;
   font-family: $base-font-family;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1;
   padding: $small-spacing $base-spacing;
   text-align: center;
@@ -18,15 +17,23 @@
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
+  background-color: $green;
 
-  &:hover {
-    background-color: shade($action-color, 20%);
-    color: #fff;
+  &:hover,
+  &:focus {
+    background-color: shade($green, 20%);
+    color: $white;
   }
 
-  &:focus {
-    outline: $focus-outline;
-    outline-offset: $focus-outline-offset;
+  @each $site-slug, $signature-color in $signature-colors {
+    .#{$site-slug} & {
+      background: $signature-color;
+
+      &:hover,
+      &:focus {
+        background: shade($signature-color, 20%);
+      }
+    }
   }
 
   &:disabled {
@@ -34,7 +41,7 @@
     opacity: 0.5;
 
     &:hover {
-      background-color: $action-color;
+      background-color: $medium-gray;
     }
   }
 }

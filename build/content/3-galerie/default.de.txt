@@ -1,0 +1,21 @@
+Title: Galerie
+
+----
+
+Text: 
+
+# Galerie
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+----
+
+Side: 
+
+- 
+  text: |
+    ### Jetzt bestellen
+    Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
+- 
+  text: |
+    ### Immer unterwegs
+    Wenn ihr wissen wollt, welche Festivals wir besuchen, dann schaut auf (link: https://www.facebook.com/pages/Govinda-Vegan-Vegetarisch/112828825406718?ref=hl text: Facebook) vorbei!

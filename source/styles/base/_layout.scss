@@ -1,5 +1,11 @@
+$header-image-width: 900px;
+$body-max-width: 980px;
+$body-padding: ($body-max-width - $header-image-width) / 2;
+
 html {
   box-sizing: border-box;
+  background: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="5" height="5"><path fill="#edf4e2" d="M0 0h5v5H0z"/><path stroke="#c6d698" d="M0 5l5-5zm6-1L4 6zm-7-3l2-2z"/></svg>') repeat fixed;
+  height: 100%;
 }
 
 *,
@@ -8,11 +14,23 @@ html {
   box-sizing: inherit;
 }
 
-html,
-body {
-  height: 100%;
-}
+// html,
+// body {
+//   height: 100%;
+// }
 
 body {
-  margin: 0;
+  margin: $base-spacing auto;
+  padding: 0 $body-padding;
+  background: $white;
+  width: 95%;
+  @include card(2);
+
+  // @include grid-media($medium) {
+  //   width: 768px; // 48em
+  // }
+
+  @include grid-media($large) {
+    max-width: $body-max-width; // 60em
+  }
 }

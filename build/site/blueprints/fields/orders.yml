@@ -1,0 +1,33 @@
+label: Bestellungen
+type: structure
+modalsize: large
+entry: >
+  {{nachricht}}
+fields:
+  full_name:
+    label: Name
+    type: text
+    width: 3/4
+  vegan:
+    label: Vegan?
+    type: text
+    width: 1/4
+  email:
+    label: Mail
+    type: email
+    width: 1/2
+  telefon:
+    label: Telefon
+    type: text
+    width: 1/2
+  art:
+    label: Art der Veranstaltung
+    type: text
+    width: 1/2
+  datum:
+    label: Datum
+    type: text
+    width: 1/2
+  nachricht:
+    label: Nachricht
+    type: textarea

@@ -1,0 +1,9 @@
+label: Seitenleiste
+type: structure
+modalsize: large
+entry: >
+  {{text}}
+fields:
+  text:
+    label: Text
+    type: textarea

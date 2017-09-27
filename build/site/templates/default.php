@@ -1,5 +1,11 @@
 <?php snippet('header') ?>
 
-<h1><?php echo $page->title()->html() ?></h1>
+<div class="wrap">
+  <section class="content">
+    <?= $page->text()->kt() ?>
+    <?php snippet('gallery') ?>
+  </section>
+  <?php snippet('sidebar') ?>
+</div>
 
 <?php snippet('footer') ?>

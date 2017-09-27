@@ -41,13 +41,14 @@ textarea {
   width: 100%;
 
   &:hover {
-    border-color: shade($base-border-color, 20%);
+    border-color: $green;
   }
 
-  &:focus {
-    border-color: $action-color;
-    box-shadow: $_form-box-shadow-focus;
-    outline: none;
+  @each $site-slug, $signature-color in $signature-colors {
+    .#{$site-slug} &:hover,
+    .#{$site-slug} &:focus {
+      border-color: $signature-color;
+    }
   }
 
   &:disabled {
@@ -65,7 +66,8 @@ textarea {
 }
 
 textarea {
-  resize: vertical;
+  resize: none;
+  min-height: 200px;
 }
 
 [type="checkbox"],
@@ -84,12 +86,12 @@ select {
   width: 100%;
 }
 
-[type="checkbox"],
-[type="radio"],
-[type="file"],
-select {
-  &:focus {
-    outline: $focus-outline;
-    outline-offset: $focus-outline-offset;
-  }
-}
+// [type="checkbox"],
+// [type="radio"],
+// [type="file"],
+// select {
+//   &:focus {
+//     outline: $focus-outline;
+//     outline-offset: $focus-outline-offset;
+//   }
+// }
