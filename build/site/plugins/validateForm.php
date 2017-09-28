@@ -82,7 +82,7 @@ function addToStructure($p, $field, $data = array()) {
     }
 
     // if successful, add success message to $response array
-    $response['success'] = "Ihre Bestellung war erfolgreich!";
+    $response['success'] = "<h3>Ihre Bestellung war erfolgreich!</h3>";
 
   } catch(Exception $e) {
 

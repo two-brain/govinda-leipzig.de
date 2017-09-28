@@ -8,11 +8,11 @@ import baguetteBox from 'baguettebox.js';
 
 
 
- /*
-  * Declaring custom functions
-  */
+/*
+ * Declaring custom functions
+ */
 
- // 1. Simple JS feature detection
+// 1. Simple JS feature detection
 
 function featureDetection() {
   let className = '';
@@ -24,15 +24,15 @@ function featureDetection() {
 
 
 
- /*
-  * Initializing functions
-  */
+/*
+ * Initializing functions
+ */
 
-window.onload = function() {
+document.addEventListener('DOMContentLoaded', event => {
   featureDetection();
 
   baguetteBox.run('.gallery', {
     animation: 'fadeIn',
     buttons: false,
   });
-};
+})

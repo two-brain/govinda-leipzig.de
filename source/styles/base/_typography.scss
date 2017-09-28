@@ -1,13 +1,13 @@
-$header-nav-bg-color--generic: #99a623;
+$hr-spacing: 2rem;
 
 html {
   color: $base-font-color;
   font-family: $base-font-family;
   font-size: 100%;
   line-height: $base-line-height;
-  // -moz-osx-font-smoothing: grayscale;
-  // -webkit-font-smoothing: antialiased;
-  // text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 h1,
@@ -19,8 +19,8 @@ h6 {
   font-family: $heading-font-family;
   font-size: modular-scale(1);
   line-height: $heading-line-height;
-  margin: $small-spacing 0 $small-spacing / 3;
-  color: $header-nav-bg-color--generic;
+  margin: 1.5 * $small-spacing 0 $small-spacing;
+  color: $green;
 
   @each $site-slug, $signature-color in $signature-colors {
     .#{$site-slug} & {
@@ -44,14 +44,10 @@ a {
   transition: color $base-duration $base-timing;
   border-bottom: 1px dotted $base-font-color;
 
-  &:hover {
+  &:hover,
+  &:focus {
     color: shade($base-font-color, 15%);
   }
-
-  // &:focus {
-  //   outline: $focus-outline;
-  //   outline-offset: $focus-outline-offset;
-  // }
 }
 
 hr {
@@ -59,5 +55,5 @@ hr {
   border-left: 0;
   border-right: 0;
   border-top: 0;
-  margin: $base-spacing 0;
+  margin: 3 * $small-spacing 0;
 }

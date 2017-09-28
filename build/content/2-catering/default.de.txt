@@ -7,11 +7,15 @@ Text:
 # Catering einmal anders!
 Wir stellen Euch für jeden Anlass eine reiche Auswahl internationaler Spezialitäten zusammen. Überrascht Eure Gäste mit einem delikaten und besonderen Geschmackserlebnis.
 
+---
+
 ## Unser Service
 - individuelle Menüplanung – gerne in unserem Bistro bei einem Chai (ab Mai 2014)
 - Lieferung im Umkreis von Leipzig bis zu 2,5 Stunden entfernt
 - Lieferung frei Haus in Leipzig
 - Mindestbestellwert von 200,00 € zzgl. der Mehrwertsteuer
+
+---
 
 ## Auf Wunsch
 - ausschließlich vegan oder in Bio-Qualität

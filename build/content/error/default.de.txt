@@ -3,3 +3,36 @@ Title: Error
 ----
 
 Text: 
+
+# Seite nicht gefunden
+Die von Ihnen gesuchte Seite gibt es nicht - leckeres Essen hingegen schon: bei Govinda vegan + vegetarisch.
+
+## Überzeugen Sie sich selbst!
+
+---
+
+----
+
+Side: 
+
+- 
+  text: |
+    ### Jetzt bestellen
+    Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
+- 
+  text: |
+    ### Ansprechpartner
+    Daniel Fiskal
+    catering(ät)govinda-leipzig.de
+    Telefon: 0178 - 3831551
+- 
+  text: |
+    ### Immer unterwegs
+    Wenn ihr wissen wollt, welche Festivals wir besuchen, dann schaut auf (link: https://www.facebook.com/pages/Govinda-Vegan-Vegetarisch/112828825406718?ref=hl text: Facebook) vorbei!
+- 
+  text: |
+    ### Ansprechpartner
+    Peter Panstingl
+    info(ät)govinda-leipzig.de
+    Telefon: 0341 - 35138983
+    Mobil: 0178 - 1910864

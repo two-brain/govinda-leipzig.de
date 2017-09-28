@@ -2,10 +2,12 @@ Title: Bestellformular
 
 ----
 
-Text:
+Text: 
 
 # Unverbindliche Anfrage
 Über das Bestelltformular könnt Ihr uns direkt und unverbindlich Eure Wünsche und Anfragen für Euer Catering mitteilen. Wir werden Euch dann mit einem ersten Angebot kontaktieren.
+
+---
 
 ## Wichtig zu wissen wäre:
 - Wann und wo findet die Veranstaltung statt?
@@ -17,7 +19,7 @@ Text:
 
 ----
 
-Side:
+Side: 
 
 -
   text: |
