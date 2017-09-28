@@ -1,9 +1,33 @@
-.honey {
-  position: absolute;
-  left: -9999px;
-}
+.form {
 
-.form__mesage,
-.form__alter {
-  margin-top: 2 * $base-spacing;
+  .wrap {
+    @include grid-media($medium) {
+      @include grid-collapse;
+    }
+  }
+
+  &__item {
+    @include grid-media($medium) {
+      @include grid-column(6);
+    }
+  }
+
+  .required {
+    color: $medium-gray;
+  }
+
+  .honey {
+    position: absolute;
+    left: -9999px;
+  }
+
+  &-result {
+    text-align: center;
+
+    h3 {
+      padding: 2 * $base-spacing 0;
+      color: $green;
+      font-weight: 700;
+    }
+  }
 }

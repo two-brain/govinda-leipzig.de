@@ -3,3 +3,32 @@ Title: Govinda - Vegan + Vegetarisch
 ----
 
 Mail: info@govinda-leipzig.de
+
+----
+
+Orders: 
+
+- 
+  full_name: a
+  email: a@a.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: nein
+  nachricht: NEU
+- 
+  full_name: a
+  email: a@a.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: nein
+  nachricht: NEU
+- 
+  full_name: a
+  email: a@a.de
+  telefon: ""
+  datum: ""
+  art: ""
+  vegan: nein
+  nachricht: a

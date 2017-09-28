@@ -45,15 +45,17 @@ $base-timing: ease;
 
 
 // Signature Colors
-$signature-colors: ('unser-angebot': #ab251a, 'catering': #c36912, 'galerie': #f05500, 'festivals': #e79122, 'kontakt': #99a623);
+$signature-colors: (
+  'unser-angebot': #ab251a,
+  'catering': #c36912,
+  'galerie': #f05500,
+  'festivals': #e79122
+);
 
 // Navigation-related Colors
-$header-nav-slug: unser-angebot, catering, galerie, festivals, kontakt, generic_green;
-$header-nav-bg-colors: #ab251a, #c36912, #f05500, #e79122, #99a623, #99a623;
-$header-nav-link-colors: #c4665e, #d59659, #f9bcb7, #ffb45e, #b7c065, #b7c065;
-
-// Contact-Form-7-related Colors
-$wpcf7-forms: ('catering': #c36912, 'kontakt': #99a623);
+$header-nav-slug: unser-angebot, catering, galerie, festivals;
+$header-nav-bg-colors: #ab251a, #c36912, #f05500, #e79122;
+$header-nav-link-colors: #c4665e, #d59659, #f9bcb7, #ffb45e;
 
 // Breakpoints
 $small-screen: 480px;

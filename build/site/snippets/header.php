@@ -20,4 +20,4 @@
       </nav>
       <?php endif ?>
     </header>
-    <main>
+    <main class="clearfix">
