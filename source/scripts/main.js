@@ -33,6 +33,6 @@ document.addEventListener('DOMContentLoaded', event => {
 
   baguetteBox.run('.gallery', {
     animation: 'fadeIn',
-    buttons: false,
+    // buttons: false,
   });
 })

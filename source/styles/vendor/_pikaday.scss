@@ -1,0 +1,37 @@
+$pd-text-color: $base-font-color;
+$pd-title-color: $base-font-color;
+$pd-title-bg: $white;
+$pd-picker-bg: $white;
+$pd-picker-border: $light-gray;
+$pd-picker-border-bottom: $pd-picker-border;
+$pd-picker-shadow: rgba(0, 0, 0, 0.5) !default;
+$pd-th-color: $medium-gray;
+$pd-day-color: $dark-gray;
+$pd-day-bg: $light-gray;
+$pd-day-hover-color: $white;
+$pd-day-hover-bg: $brown;
+$pd-day-today-color: $light-brown;
+$pd-day-selected-color: $white;
+$pd-day-selected-bg: $light-brown;
+$pd-day-selected-shadow: shade($brown, 15%);
+$pd-day-disabled-color: $medium-gray;
+$pd-week-color: $medium-gray;
+
+// Font
+$pd-font-family: $base-font-family;
+
+@import 'pikaday/scss/pikaday';
+
+.pd-govinda {
+  &.pika-single {
+    @include card(1);
+  }
+
+  .pika-button {
+    border-radius: 0;
+  }
+
+  .is-selected .pika-button {
+    font-weight: 400;
+  }
+}

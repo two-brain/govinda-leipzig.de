@@ -1,10 +1,10 @@
-$facebook-blue: #3c5a99;
+$secondary-links-font-size: 12px;
 
 .site-footer {
   border-top: $base-border;
   text-align: center;
   display: inline-block;
-  padding: $base-spacing 0 $small-spacing;
+  padding: 2em 0 $base-spacing;
   width: 100%;
 }
 
@@ -12,47 +12,59 @@ $facebook-blue: #3c5a99;
   @include grid-media($large) {
     float: left;
     text-align: left;
+    margin-bottom: 0;
   }
 }
 
-.facebook {
-  color: $medium-gray;
-  line-height: 0;
-  margin-right: 0.5em;
-  border: 0;
-
-  &:hover {
-    color: $facebook-blue;
-  }
-
-  svg {
-    vertical-align: middle;
-  }
-}
-
-.footer-links {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  line-height: 1;
-  padding: $small-spacing 0;
-
-  a {
-    font-size: 0.8em;
-    display: table;
-
-    + a {
-      margin-left: $base-spacing;
-      margin-top: $small-spacing;
-
-      @include grid-media($large) {
-        margin-top: 0;
-      }
-    }
-  }
+.footer-nav {
+  margin: 0;
 
   @include grid-media($large) {
-    flex-direction: row;
     float: right;
+  }
+}
+
+.secondary-links {
+  margin: $small-spacing / 3 0 0;
+
+  @include grid-media($large) {
+    float: left;
+    margin: 0;
+  }
+
+  a {
+    font-size: $secondary-links-font-size;
+  }
+}
+
+.footer-social {
+  margin: $base-spacing 0 0;
+  text-align: center;
+  display: inline-block;
+
+  @include grid-media($large) {
+    float: right;
+    margin: 0 0 0 $base-spacing;
+  }
+
+  li {
+    float: left;
+  }
+
+  a {
+    border: 0;
+    color: $light-gray;
+
+    &:focus,
+    &:hover {
+      color: $green;
+    }
+
+    @each $site-slug, $signature-color in $signature-colors {
+      .#{$site-slug} &:focus,
+      .#{$site-slug} &:hover {
+        color: $signature-color
+      }
+    }
   }
 }

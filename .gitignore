@@ -1,8 +1,6 @@
-*.log
 node_modules
 build/assets
-build/content/error/*.jpg
-build/content/error/*.jpg.de.txt
+build/site/config/config.govinda-leipzig.de.php
 workbench
 
 

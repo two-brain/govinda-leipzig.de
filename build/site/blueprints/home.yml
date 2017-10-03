@@ -2,6 +2,14 @@ title: Startseite
 
 pages: false
 files: true
+  fields:
+    img_title:
+      label: Name
+      type: text
+    img_desc:
+      label: Beschreibung
+      type: textarea
+
 options:
   preview: true
   status: true

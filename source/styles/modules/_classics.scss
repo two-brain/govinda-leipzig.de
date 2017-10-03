@@ -1,0 +1,43 @@
+// .classics {
+//
+// }
+
+.classic {
+  display: inline-block;
+  width: 100%;
+
+  .text {
+    @include grid-media($medium) {
+      @include grid-column(7);
+    }
+  }
+
+  .image {
+    text-align: center;
+    margin-bottom: $small-spacing;
+
+    @include grid-media($medium) {
+      @include grid-column(5);
+    }
+  }
+
+  &.right .image {
+    @include grid-media($medium) {
+      float: right;
+    }
+  }
+
+  .imageset {
+    max-width: 345px;
+    border-radius: $base-border-radius;
+  }
+
+  h2 {
+    margin: 0 0 $small-spacing / 3;
+    font-size: modular-scale(2);
+  }
+
+  p:last-child {
+    margin: 0;
+  }
+}

@@ -9,7 +9,21 @@
         <?= (new Asset('assets/images/govinda.svg'))->content() ?>
       </a>
       <?php if(!$page->isHomePage()) : ?>
-      <img class="header-image" src="/assets/images/header-<?php e(!$page->parents()->count() && $page->isVisible(), $page->uid(), $page->parent()->uid()) ?>.jpg" alt="Govinda Bistro - Vegan + Vegetarisch in Leipzig">
+
+        <div class="header-image">
+          <?php
+            $image = $page->banner();
+            if($image->isNotEmpty()) {
+              $image = $image->toFile();
+              echo $image->imageset([ '900x243' ], [ 'placeholder' => 'triangles', 'alt' => $image->img_desc() ]);
+            } else {
+              $fallback = new Asset('assets/images/header.jpg');
+              echo imageset($fallback, [ '900x243' ], [ 'placeholder' => 'triangles', 'alt' => $image->img_desc() ]);
+            }
+          ?>
+        </div>
+
+
       <nav class="nav">
         <?php
           $menuItems = $pages->visible();

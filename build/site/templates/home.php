@@ -7,7 +7,7 @@
   ?>
   <div class="promo__item promo__item--<?= $item->link() ?>">
     <a class="promo__link" href="<?= url($item->link()) ?>">
-      <img src="<?= $item->image()->toFile()->crop(214, 243, 95)->url() ?>" alt="Govinda Bistro - Vegan + Vegetarische Küche in Leipzig">
+      <?php e($image = $item->image()->toFile(), $image->imageset([ '214' ], [ 'alt' => $image->img_desc() ])) ?>
       <h2><?= $item->title() ?></h2>
     </a>
     <?= $item->text()->kt() ?>

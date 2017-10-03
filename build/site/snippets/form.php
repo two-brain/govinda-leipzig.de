@@ -17,12 +17,12 @@
 
       <div class="form__item">
         <label for="telefon">Telefon:</label>
-        <input type="text" id="telefon" name="telefon" placeholder="0123 / 45 6789" value="<?= isset($data['telefon']) ? $data['telefon'] : '' ?>"/>
+        <input type="text" id="telefon" name="telefon" placeholder="Sind Sie telefonisch erreichbar?" value="<?= isset($data['telefon']) ? $data['telefon'] : '' ?>"/>
       </div>
 
       <div class="form__item">
         <label for="datum">Datum der Veranstaltung:</label>
-        <input type="text" id="datum" name="datum" placeholder="zB 01.01.2018, nächsten Dienstag .." value="<?= isset($data['datum']) ? $data['datum'] : '' ?>"/>
+        <input type="text" id="datum" name="datum" placeholder="Wann findet Ihre Veranstaltung statt?" value="<?= isset($data['datum']) ? $data['datum'] : '' ?>"/>
       </div>
 
       <div class="form__item">
@@ -31,7 +31,7 @@
       </div>
 
       <div class="form__item">
-        <label for="vegan">Vegan?</label>
+        <label for="vegan">Rein vegan?</label>
         <input type="hidden" name="vegan" value="nein"/>
         <input type="checkbox" id="vegan" name="vegan" value="ja"/>
       </div>

@@ -1,4 +1,4 @@
-Title: Kontakt & Impressum
+Title: Impressum
 
 ----
 
@@ -67,3 +67,11 @@ Side:
     238/255/02874
 - 
   text: '<div class="flex"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2492.59791815595!2d12.327938000000001!3d51.33691499999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f7a48adcd2af%3A0x1677ad87e961643d!2sGovinda+Vegan+%2B+Vegetarisch!5e0!3m2!1sen!2sde!4v1409053285279" frameborder="0"></iframe></div>'
+
+----
+
+Banner: 
+
+----
+
+Gallery: 

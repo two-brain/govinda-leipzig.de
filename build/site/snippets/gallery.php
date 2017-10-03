@@ -1,11 +1,12 @@
-<?php if($page->hasImages()) : ?>
+<?php if($page->gallery()->isNotEmpty()) : ?>
   <div class="gallery">
     <?php
-      $pageImages = $page->images();
-      foreach ($pageImages as $image) :
+      $galleryImages = $page->gallery()->yaml();
+      foreach ($galleryImages as $image) :
     ?>
+    <?php $image = $page->image($image); ?>
     <a class="gallery__item" href="<?= $image->url() ?>" data-caption="<?= $image->img_title() ?>">
-      <img src="<?= $image->crop(150, 150, 85)->url() ?>" alt="<?= $image->img_desc() ?>">
+      <?= $image->imageset([ '150x150' ], [ 'alt' => $image->img_desc() ]); ?>
     </a>
     <?php endforeach ?>
   </div>

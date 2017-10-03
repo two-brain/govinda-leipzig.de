@@ -9,26 +9,14 @@ Mail: info@govinda-leipzig.de
 Orders: 
 
 - 
-  full_name: a
-  email: a@a.de
-  telefon: ""
-  datum: ""
-  art: ""
-  vegan: nein
-  nachricht: NEU
-- 
-  full_name: a
-  email: a@a.de
-  telefon: ""
-  datum: ""
-  art: ""
-  vegan: nein
-  nachricht: NEU
-- 
-  full_name: a
-  email: a@a.de
-  telefon: ""
-  datum: ""
-  art: ""
-  vegan: nein
-  nachricht: a
+  full_name: Max Mustermann
+  email: m.mustermann@musterstadt.de
+  telefon: '0123 / 456 - 789'
+  datum: 19.10.2017
+  art: Betriebsjubiläum
+  vegan: ja
+  nachricht: |
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    
+    Beste Grüße,
+    Max Mustermann

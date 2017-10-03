@@ -10,7 +10,7 @@ Promo:
 
 - 
   title: Angebot
-  image: unser-angebot.jpg
+  image: promo-unser-angebot.jpg
   text: >
     Habt Ihr schon mal Pakoras oder Laddhus
     probiert? Wir lieben die alte indische
@@ -23,7 +23,7 @@ Promo:
   link: unser-angebot
 - 
   title: Catering
-  image: catering.jpg
+  image: promo-catering.jpg
   text: >
     Geburtstag, Hochzeit, Tagung oder
     Firmenjubiläum – wir sorgen für das
@@ -36,7 +36,7 @@ Promo:
   link: catering
 - 
   title: Galerie
-  image: galerie.jpg
+  image: promo-galerie.jpg
   text: >
     Wir bieten schonend zubereitete,
     vegetarische Kost für Kinder, die
@@ -49,7 +49,7 @@ Promo:
   link: galerie
 - 
   title: Festivals
-  image: festivals.jpg
+  image: promo-festivals.jpg
   text: 'Mit unserem farbenfrohen Imbisswagen oder lauschigem Festivalzelt samt unseren leckeren Speisen besuchen wir auch Euer Event. Unser Team besteht aus sympatischen, miteinander eingespielten Leuten und arbeitet ganz nach dem Motto: We rock it!'
   category: ""
   link: festivals

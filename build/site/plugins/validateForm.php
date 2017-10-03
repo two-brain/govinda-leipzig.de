@@ -65,8 +65,8 @@ function addToStructure($p, $field, $data = array()) {
 
     // build the email
     $email = email(array(
-      'to'      => 'hello@twobrain.io',
-      'from'    => 'catering@govinda-leipzig.de',
+      'to'      => 'catering@govinda-leipzig.de',
+      'from'    => 'bestellservice@govinda-leipzig.de',
       'subject' => 'Catering-Anfrage',
       'replyTo' => $data['email'],
       'body'    => $body

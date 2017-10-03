@@ -1,14 +1,26 @@
-#close-button {
+@import 'baguettebox.js/src/baguetteBox.scss';
+
+.baguetteBox-button {
   background: transparent;
   border: 0;
   outline: 0;
 
-  svg g {
+  &:hover,
+  &:focus {
+    background: transparent;
+    outline: 0;
+  }
+
+  svg > * {
     stroke: $medium-gray;
   }
 
+  &:hover svg > * {
+    stroke: $green;
+  }
+
   @each $site-slug, $signature-color in $signature-colors {
-    .#{$site-slug} &:hover svg g {
+    .#{$site-slug} &:hover svg > * {
       stroke: $signature-color;
     }
   }

@@ -1,23 +1,8 @@
 <?php
 
+// Includes
+
 include kirby()->roots()->config() . '/languages.php';
-
-/*
-
----------------------------------------
-License Setup
----------------------------------------
-
-Please add your license key, which you've received
-via email after purchasing Kirby on http://getkirby.com/buy
-
-It is not permitted to run a public website without a
-valid license key. Please read the End User License Agreement
-for more information: http://getkirby.com/license
-
-*/
-
-c::set('license', 'put your license key here');
 
 /*
 
@@ -33,6 +18,12 @@ Multi-environment-setup, see here: https://getkirby.com/docs/developer-guide/con
 c::set('debug', true);
 c::set('fingerprint', false);
 c::set('thumbs.driver', 'im');
+c::set('cache', false);
+
+c::set('imagekit.optimize', false);
+c::set('imagekit.widget.step', 15);
+
+c::set('imageset.placeholder', 'blurred');
 
 /*
 

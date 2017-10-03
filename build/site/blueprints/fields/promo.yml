@@ -4,7 +4,7 @@ modalsize: large
 limit: 4
 entry: >
   <img src="/content/home/{{image}}"><br>
-  <strong>{{title}}</strong> (Link zu {{link}})<br>
+  <strong>{{title}}</strong><br>
   {{text}}
 fields:
   title:

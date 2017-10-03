@@ -19,7 +19,15 @@ $medium-gray: #999;
 $light-gray: #eee;
 $white: #fff;
 $green: #99a623;
-$green--shaded: #b7c065;
+$light-green: #b7c065;
+$red: #ab251a;
+$light-red: #c4665e;
+$brown: #c36912;
+$light-brown: #d59659;
+$deep-orange: #f05500;
+$light-deep-orange: #f9bcb7;
+$orange: #e79122;
+$light-orange: #ffb45e;
 
 // Font Colors
 $base-font-color: $dark-gray;
@@ -46,16 +54,16 @@ $base-timing: ease;
 
 // Signature Colors
 $signature-colors: (
-  'unser-angebot': #ab251a,
-  'catering': #c36912,
-  'galerie': #f05500,
-  'festivals': #e79122
+  'unser-angebot': $red,
+  'catering': $brown,
+  'galerie': $deep-orange,
+  'festivals': $orange
 );
 
 // Navigation-related Colors
 $header-nav-slug: unser-angebot, catering, galerie, festivals;
-$header-nav-bg-colors: #ab251a, #c36912, #f05500, #e79122;
-$header-nav-link-colors: #c4665e, #d59659, #f9bcb7, #ffb45e;
+$header-nav-bg-colors: $red, $brown, $deep-orange, $orange;
+$header-nav-link-colors: $light-red, $light-brown, $light-deep-orange, $light-orange;
 
 // Breakpoints
 $small-screen: 480px;

@@ -6,22 +6,37 @@ ol {
   position: relative;
 
   li {
-  padding-left: $small-spacing;
+    padding-left: $small-spacing;
 
-  &::before {
-    position: absolute;
-    content: '▪';
-    left: 0;
-    color: $green;
+    &::before {
+      position: absolute;
+      content: '▪';
+      left: 0;
+      color: $green;
 
-    @each $site-slug, $signature-color in $signature-colors {
-      .#{$site-slug} & {
-        color: $signature-color;
+      @each $site-slug, $signature-color in $signature-colors {
+        .#{$site-slug} & {
+          color: $signature-color;
+        }
       }
     }
   }
 }
 
+.inline li {
+  padding: 0;
+
+  @include grid-media($large) {
+    display: inline;
+  }
+
+  + li {
+    margin-left: $small-spacing;
+  }
+
+  &::before {
+    content: '';
+  }
 }
 
 dl {

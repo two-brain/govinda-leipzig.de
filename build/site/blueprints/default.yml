@@ -21,7 +21,16 @@ fields:
   title:
     label: Title
     type:  text
+    width: 2/3
+  banner:
+    label: Banner
+    type:  image
+    width: 1/3
   text:
     label: Text
     type:  textarea
+  gallery:
+    label: Bildergalerie
+    type: images
+    limit: 18
   side: sidebar

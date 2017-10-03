@@ -1,15 +1,16 @@
 label: Bestellungen
 type: structure
 modalsize: large
+flip: true
 entry: >
   Bestellung von <a href="mailto:{{email}}"><b>{{full_name}}</b></a>:<br>
   <br>
   {{nachricht}}<br>
   <br>
-  Telefon - {{email}}<br>
+  Telefon - {{telefon}}<br>
   Datum - {{datum}}<br>
   Art - {{art}}<br>
-  vegan - {{vegan}}
+  rein vegan - {{vegan}}
 fields:
   full_name:
     label: Name

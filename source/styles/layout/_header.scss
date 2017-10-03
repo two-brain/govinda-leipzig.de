@@ -1,3 +1,7 @@
+$content-top-spacing: 2 * $base-spacing;
+$header-nav-padding-top: 70px;
+$header-nav-padding-bottom: 4px;
+
 .site-header {
   text-align: center;
   padding-top: 1.5 * $base-spacing;
@@ -8,9 +12,13 @@
 }
 
 .header-image {
-  margin-top: $base-spacing;
+  margin-top: $content-top-spacing;
   border-radius: $base-border-radius $base-border-radius 0 0;
   display: block;
+
+  .imageset {
+    border-radius: inherit;
+  }
 }
 
 .nav {
@@ -25,7 +33,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 80px 60px 4px;
+    padding: $header-nav-padding-top 60px $header-nav-padding-bottom;
   }
 
   @each $header-nav-slug, $header-nav-bg-color, $header-nav-link-color in zip($header-nav-slug, $header-nav-bg-colors, $header-nav-link-colors) {
@@ -43,7 +51,7 @@
     letter-spacing: 2px;
     text-transform: uppercase;
     border: 0;
-    color: $green--shaded;
+    color: $light-green;
 
     &:hover,
     &.is-active {

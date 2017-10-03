@@ -21,16 +21,22 @@ html {
 
 body {
   margin: $base-spacing auto;
-  padding: 0 $body-padding;
+  padding: 0 $body-padding / 2;
   background: $white;
-  width: 95%;
+  width: 254px;
+  line-height: $base-line-height;
   @include card(2);
 
-  // @include grid-media($medium) {
-  //   width: 768px; // 48em
-  // }
+  @include grid-media($small) {
+    width: 436px; // 48em
+  }
+
+  @include grid-media($medium) {
+    width: 768px; // 48em
+  }
 
   @include grid-media($large) {
-    max-width: $body-max-width; // 60em
+    width: $body-max-width; // 60em
+    padding: 0 $body-padding;
   }
 }

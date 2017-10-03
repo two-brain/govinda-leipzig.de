@@ -38,3 +38,11 @@ Side:
   text: |
     ### Jetzt bestellen
     Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
+
+----
+
+Banner: header-catering.jpg
+
+----
+
+Gallery: 

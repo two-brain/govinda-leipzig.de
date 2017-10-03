@@ -5,10 +5,10 @@ Bestellung von <?= $full_name ?> (<?= $email ?>):
 
 ----
 
-Telefon: <?= $email ?>
+Telefon: <?= $telefon ?>
 
 Datum: <?= $datum ?>
 
 Art: <?= $art ?>
 
-Vegan: <?php e($vegan == 'ja', '👍', '👎') ?>
+rein vegan: <?php e($vegan == 'ja', '👍', '👎') ?>

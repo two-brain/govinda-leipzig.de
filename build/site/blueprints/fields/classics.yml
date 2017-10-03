@@ -1,0 +1,19 @@
+label: Klassiker der indischen Küche
+type: structure
+modalsize: large
+entry: >
+  <img src="/content/1-unser-angebot/{{image}}"><br>
+  <strong>{{title}}</strong><br>
+  {{text}}
+fields:
+  title:
+    label: Name
+    type: text
+    width: 2/3
+  image:
+    label: Bild
+    type: image
+    width: 1/3
+  text:
+    label: Text
+    type: textarea

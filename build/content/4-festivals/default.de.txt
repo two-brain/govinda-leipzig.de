@@ -28,3 +28,30 @@ Side:
   text: |
     ### Jetzt bestellen
     Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
+
+----
+
+Banner: header-festivals.jpg
+
+----
+
+Gallery: 
+
+- festival-galerie-01.jpg
+- festival-galerie-02.jpg
+- festival-galerie-03.jpg
+- festival-galerie-04.jpg
+- festival-galerie-05.jpg
+- festival-galerie-06.jpg
+- festival-galerie-07.jpg
+- festival-galerie-08.jpg
+- festival-galerie-09.jpg
+- festival-galerie-10.jpg
+- festival-galerie-11.jpg
+- festival-galerie-12.jpg
+- festival-galerie-13.jpg
+- festival-galerie-14.jpg
+- festival-galerie-15.jpg
+- festival-galerie-16.jpg
+- festival-galerie-17.jpg
+- festival-galerie-18.jpg

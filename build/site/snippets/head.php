@@ -17,4 +17,6 @@
 
   <link rel="shortcut icon" href="<?= url('favicon.png') ?>">
 
+  <?= js('site/plugins/imageset/assets/js/dist/imageset.js') ?>
+
 </head>
