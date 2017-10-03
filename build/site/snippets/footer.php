@@ -28,7 +28,17 @@
       </nav>
     </footer>
 
-    <?= js('assets/scripts/main.js') ?>
+    <?php if(c::get('env') == 'development') : ?>
+
+      <?= js('assets/scripts/main.js') ?>
+
+    <?php else : ?>
+
+      <script type="text/javascript">
+        <?= (new Asset('assets/scripts/main.js'))->content() ?>
+      </script>
+
+    <?php endif ?>
 
     <?php if($page->uid() == 'jetzt-bestellen') : ?>
 
