@@ -7,3 +7,12 @@
 [submodule "build/site/plugins/fingerprint"]
 	path = build/site/plugins/fingerprint
 	url = https://github.com/iksi/KirbyFingerprint.git
+[submodule "build/site/plugins/imageset"]
+	path = build/site/plugins/imageset
+	url = https://github.com/fabianmichael/kirby-imageset.git
+[submodule "build/site/plugins/imagekit"]
+	path = build/site/plugins/imagekit
+	url = https://github.com/fabianmichael/kirby-imagekit.git
+[submodule "build/site/plugins/images"]
+	path = build/site/plugins/images
+	url = https://github.com/medienbaecker/kirby-images.git
