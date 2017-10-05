@@ -3,6 +3,7 @@
 // Includes
 
 include kirby()->roots()->config() . '/languages.php';
+include kirby()->roots()->config() . '/thumbnails.php';
 
 /*
 
@@ -20,11 +21,6 @@ c::set('debug', true);
 c::set('fingerprint', false);
 c::set('thumbs.driver', 'im');
 c::set('cache', false);
-
-c::set('imagekit.optimize', false);
-c::set('imagekit.widget.step', 15);
-
-c::set('imageset.placeholder', 'blurred');
 
 /*
 
