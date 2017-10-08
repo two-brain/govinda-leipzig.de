@@ -16,3 +16,6 @@
 [submodule "build/site/plugins/compress"]
 	path = build/site/plugins/compress
 	url = https://github.com/iksi/kirby-compress.git
+[submodule "build/site/plugins/seo"]
+	path = build/site/plugins/seo
+	url = https://github.com/jenstornell/kirby-seo.git
