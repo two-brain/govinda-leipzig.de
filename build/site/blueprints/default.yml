@@ -34,3 +34,4 @@ fields:
     type: images
     limit: 18
   side: sidebar
+  seo: seo

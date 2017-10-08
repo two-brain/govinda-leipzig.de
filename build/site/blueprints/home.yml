@@ -22,3 +22,4 @@ fields:
     label: Title
     type:  text
   promo: promo
+  seo: seo

@@ -30,3 +30,4 @@ fields:
     label: Text
     type:  textarea
   classics: classics
+  seo: seo
