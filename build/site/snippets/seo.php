@@ -1,5 +1,5 @@
 <!-- SEO -->
-<title><?php if($page->isHomePage()) : ?><?= seo('title', array(), true); ?><?php else : ?><?= seo('title', array(), true); ?> | <?= $site->title()->html() ?><?php endif ?></title>
+<?= seo('title'); ?>
 <?= seo('description'); ?>
 <link rel="canonical" href="<?= $page->url() ?>">
 
