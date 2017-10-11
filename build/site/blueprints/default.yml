@@ -18,6 +18,9 @@ options:
   delete: false
 
 fields:
+  tab1:
+    label: Inhalt
+    type:  tabs
   title:
     label: Title
     type:  text
@@ -29,9 +32,18 @@ fields:
   text:
     label: Text
     type:  textarea
+  tab2:
+    label: Galerie (Catering & Festivals)
+    type:  tabs
   gallery:
     label: Bildergalerie
     type: images
     limit: 18
+  tab3:
+    label: Seitenleiste
+    type:  tabs
   side: sidebar
+  tab4:
+    label: Meta-Informationen
+    type:  tabs
   seo: seo
