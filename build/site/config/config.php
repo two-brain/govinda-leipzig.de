@@ -2,6 +2,7 @@
 
 // Includes
 
+include kirby()->roots()->config() . '/license.php';
 include kirby()->roots()->config() . '/languages.php';
 include kirby()->roots()->config() . '/thumbnails.php';
 
@@ -19,7 +20,6 @@ Multi-environment-setup, see here: https://getkirby.com/docs/developer-guide/con
 c::set('env', 'development');
 c::set('debug', true);
 c::set('fingerprint', false);
-c::set('thumbs.driver', 'im');
 c::set('cache', false);
 
 /*

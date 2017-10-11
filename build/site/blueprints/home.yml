@@ -18,7 +18,14 @@ options:
   delete: false
 
 fields:
+  tab1:
+    label: Inhalt
+    type:  tabs
   title:
     label: Title
     type:  text
   promo: promo
+  tab2:
+    label: Meta-Informationen
+    type:  tabs
+  seo: seo

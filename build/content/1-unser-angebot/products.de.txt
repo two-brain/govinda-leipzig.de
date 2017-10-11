@@ -67,3 +67,11 @@ Classics:
     Duis aute irure dolor in reprehenderit
     in voluptate velit esse cillum dolore eu
     fugiat nulla pariatur.
+
+----
+
+Seo: 
+
+-
+  seo-title: "Klassiker der indischen Küche | Govinda vegetarisch + vegan!"
+  seo-description: "Erfahren Sie mehr über die Klassiker indischer Küche. Wir laden Sie herzlich ein, die Vielfalt der vedischen Kochkunst kennen und lieben zu lernen!"

@@ -18,6 +18,9 @@ options:
   delete: false
 
 fields:
+  tab1:
+    label: Inhalt
+    type:  tabs
   title:
     label: Title
     type:  text
@@ -29,4 +32,11 @@ fields:
   text:
     label: Text
     type:  textarea
+  tab2:
+    label: Gerichte
+    type:  tabs
   classics: classics
+  tab3:
+    label: Meta-Informationen
+    type:  tabs
+  seo: seo
