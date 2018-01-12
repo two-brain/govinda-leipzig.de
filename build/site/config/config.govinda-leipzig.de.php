@@ -13,8 +13,6 @@ For kirby-compress plugin, see here: https://github.com/iksi/kirby-compress
 
 c::set('env', 'production');
 c::set('debug', false);
-c::set('fingerprint', true);
-c::set('plugin.compress', true);
 c::set('thumbs.driver', 'gd');
 c::set('cache.ignore', array(
   'catering/jetzt-bestellen'
