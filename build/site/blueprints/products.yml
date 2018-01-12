@@ -32,8 +32,11 @@ fields:
   text:
     label: Text
     type:  textarea
+  outro:
+    label: Schluss
+    type: textarea
   tab2:
-    label: Gerichte
+    label: Gerichte / Produkte
     type:  tabs
   classics: classics
   tab3:

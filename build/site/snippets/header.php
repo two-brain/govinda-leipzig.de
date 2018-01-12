@@ -10,18 +10,17 @@
       </a>
       <?php if(!$page->isHomePage()) : ?>
 
-        <div class="header-image">
-          <?php
-            $image = $page->banner();
-            if($image->isNotEmpty()) {
-              $image = $image->toFile();
-              echo $image->imageset([ '900x243' ], [ 'placeholder' => 'triangles', 'alt' => $image->img_desc() ]);
-            } else {
-              $fallback = new Asset('assets/images/header.jpg');
-              echo imageset($fallback, [ '900x243' ], [ 'placeholder' => 'triangles', 'alt' => $image->img_desc() ]);
-            }
-          ?>
-        </div>
+      <div class="header-image">
+        <?php
+          if($image = $page->banner()->toFile()) {
+            echo $image->imageset([ '900x243' ], [ 'placeholder' => 'triangles', 'alt' => $image->img_desc() ]);
+          } else {
+            $fallback = new Asset('assets/images/header.jpg');
+            echo imageset($fallback, [ '900x243' ], [ 'placeholder' => 'triangles', 'alt' => 'Die ganze Welt der indischen Küche | Govinda - Vegan + Vegetarirsch' ]);
+          }
+        ?>
+        <?php snippet('about-us-link') ?>
+      </div>
 
 
       <nav class="nav">

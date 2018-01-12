@@ -4,6 +4,7 @@
   justify-content: space-between;
 
   &__item {
+    position: relative;
     width: 214px;
 
     @include grid-media($small) {

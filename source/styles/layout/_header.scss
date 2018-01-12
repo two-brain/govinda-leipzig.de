@@ -1,6 +1,10 @@
 $content-top-spacing: 2 * $base-spacing;
 $header-nav-padding-top: 70px;
 $header-nav-padding-bottom: 4px;
+$about-us-link-dimension: 115px;
+$about-us-link-left: -20px;
+$about-us-link-top: -30px;
+$about-us-link-rotation: -20deg;
 
 .site-header {
   text-align: center;
@@ -12,6 +16,7 @@ $header-nav-padding-bottom: 4px;
 }
 
 .header-image {
+  position: relative;
   margin-top: $content-top-spacing;
   border-radius: $base-border-radius $base-border-radius 0 0;
   display: block;
@@ -57,5 +62,25 @@ $header-nav-padding-bottom: 4px;
     &.is-active {
       color: $white;
     }
+  }
+}
+
+.about-us--link {
+  position: absolute;
+  top: $about-us-link-top;
+  left: $about-us-link-left;
+  border-bottom: 0;
+  transform: rotate($about-us-link-rotation);
+  z-index: 999;
+  fill: $green;
+  transition: fill 2 * $base-duration $base-timing;
+
+  &:hover {
+    fill: $light-green;
+  }
+
+  svg {
+    width: $about-us-link-dimension;
+    height: $about-us-link-dimension;
   }
 }

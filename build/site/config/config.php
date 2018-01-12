@@ -5,6 +5,7 @@
 include kirby()->roots()->config() . '/license.php';
 include kirby()->roots()->config() . '/languages.php';
 include kirby()->roots()->config() . '/thumbnails.php';
+include kirby()->roots()->config() . '/plugins.php';
 
 /*
 
