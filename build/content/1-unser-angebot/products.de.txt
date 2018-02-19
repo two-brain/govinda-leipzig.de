@@ -24,6 +24,10 @@ Classics:
     Damit ist nicht die Gewürzmischung gemeint (die in Indien übrigens eine Art Prestigeobjekt ist - jede Familie / jeder Koch hat seine eigene Version – es kann sowohl die Anzahl der Gewürze variieren und auch die Gewichtung der einzelnen Gewürze ist individuell).
     
     Currys sind verschiedene Gemüsegerichte der südasiatischen und südostasiatischen Küche mit leckerer  Sauce und verschiedenen Gewürzen. Wir bieten feine Variationen mit cremigen Soßen, gerösteten Nüssen und unseren eigenen Gewürzkreationen.
+  thumbs: |
+    - 01-curry-one.jpg
+    - 01-curry-two.jpg
+    - 01-curry-three.jpg
 - 
   title: 'Samosas & Pakoras'
   image: 00-pakoras.jpg
@@ -31,6 +35,10 @@ Classics:
     .. außerdem Korianderwürfel, Pizza-Quadrate, Blätterteigtaschen und mehr - diese Snacks sind außergewöhnlich. Fingerfood ist beliebter denn je und wir haben die besten Leckereien rausgesucht und bieten sie Euch mit verschiedenen selbstgemachten Chutneys/Dips an. Verschiedenste Gemüse werden in einem würzigen Kichererbsenmehlteig gebacken und schon gibt es leckere Pakoras.
     
     Gefüllte Teigtaschen gibt es fast überall auf der Welt mit verschiedenen Namen und Füllungen. Wir kneten den Teig selbst und mit frischem Gemüse, Kräutern und Gewürzen sind unsere Samosas der Hit (für die Füllung verwenden wir sowohl hausgemachten gebratenen Paneer als auch Räuchertofu).
+  thumbs: |
+    - 02-pakoras-one.jpg
+    - 02-samosas-two.jpg
+    - 02-mango-chutney-three.jpg
 - 
   title: 'Dal- und Gemüsecremesuppen'
   image: 00-cala-150730.jpg
@@ -38,6 +46,10 @@ Classics:
     Dal ist ein Gericht, das vorwiegend aus Hülsenfrüchten (verschiedenen Linsen, aber auch Kichererbsen, Bohnen oder Erbsen) zubereitet wird. Geschält oder im Ganzen ergeben verschiedene Sorten und abwechslungsreiche Gewürzkombinationen die schönsten Farben und Geschmäcker.
     
     Proteinlieferant und Vollwertkost - ob als Vorsuppe oder Beilage, Dal gibt es bei uns in verschiedenen Arten. Als klare Suppe mit gerösteter Kokosnuss und frischen Tomaten oder als "Sambar" etwas dicker mit Tamarinde und knackigem Gemüse. Wir bieten Euch immer wieder was Neues an.
+  thumbs: |
+    - 03-dal-one.jpg
+    - 03-dal-two.jpg
+    - 03-dal-three.jpg
 - 
   title: 'Burfi, Laddhu & Simply Wonderful'
   image: 00 erol-ahmed.jpg
@@ -46,12 +58,20 @@ Classics:
     
     Sieht schön aus. Schmeckt auch so. Wir haben unterschiedliche Varianten von Desserts, welche wir im Gläschen anrichten. Haben Sie schonmal Halava probiert (Griessdessert mit Rosinen,Safran und geriebener Orange)?
     Es geht fruchtig mit Cremehaube, schokoladig mit karamellisierten Pekannüssen oder wir servieren  Schichtdessert mit Bananen & Datteln, Tiramisu "classico" oder Heidelbeer-Mascarpone-Traum. Unser Repertoire ist nicht unendlich – aber fast. Seid gespannt, was wir Euch vorschlagen.
+  thumbs: |
+    - 04-torte-one.jpg
+    - 04-dessert-glas-two.jpg
+    - 04-sweets-three.jpg
 - 
   title: >
     Antipasti, kalte Platten und
     Obstvariationen
   image: brenda-godinez-228181.jpg
   text: 'Ihr könnt zu eurem Buffet liebevoll von uns angerichtete Platten und Salate bekommen. Dass wir nur die besten Zutaten verwenden, schmeckt man und unsere Freude am Dekorieren ist ersichtlich. Das Auge isst bekanntlich mit und wir haben schon sehr oft gehört, dass die Optik und der Geschmack unserer Platten noch lange, lange in Erinnerung bleiben. Zumeist steigert sich bei solch ansprechenden kalten Platten sofort der Appetit, also seht Euch vor  :-)'
+  thumbs: |
+    - 05-salad-one.jpg
+    - 05-obstplatte-two.jpg
+    - 05-gemueseplatte-three.jpg
 
 ----
 
