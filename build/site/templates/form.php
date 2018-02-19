@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
   <section class="page">
-    <?= $page->text()->kt(); ?>
+    <?= $page->text()->kt() ?>
     <?php snippet('form', compact('data')) ?>
   </section>
 
