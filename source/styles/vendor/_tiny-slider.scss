@@ -1,0 +1,26 @@
+@import 'tiny-slider/src/tiny-slider';
+
+// [class^="thumbnails-"] {
+//
+// }
+
+.thumbnail {
+  cursor: pointer;
+  outline: 0;
+  display: inline-block;
+  margin-top: -3.5px;
+  width: 68px;
+
+  @include grid-media($small) {
+    width: 118px;
+  }
+
+  @include grid-media($medium) {
+    width: 89px;
+  }
+
+
+  @include grid-media($large) {
+    width: 118px;
+  }
+}
