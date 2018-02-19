@@ -8,12 +8,10 @@ fields:
   title:
     label: Name
     type: text
-    width: 1/2
-  image:
-    label: Bild
-    type: quickselect
-    options: images
-    width: 1/2
   text:
     label: Text
     type: textarea
+  thumbs:
+    label: Bild
+    type: images
+    required: true
