@@ -19,10 +19,14 @@
                 <?php
                   $images = $item->thumbs()->yaml();
                   foreach ($images as $image) :
-                  if($image = $page->image($image)) : ?>
-                    <div class="slide">
-                    <?= $image->crop(364, 248, 85)->html() ?>
-                    </div>
+                  if($image = $page->image($image)) :
+                  $crop = $image->crop(364, 248, 85);
+                ?>
+                <div class="slide lightbox">
+                  <a href="<?= $image->url() ?>" data-caption="<?= $image->img_title() ?>">
+                    <?= $crop->html() ?>
+                  </a>
+                </div>
                 <?php
                   endif;
                   endforeach;

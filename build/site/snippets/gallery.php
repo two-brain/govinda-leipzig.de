@@ -1,5 +1,5 @@
 <?php if($page->gallery()->isNotEmpty()) : ?>
-  <div class="gallery">
+  <div class="gallery lightbox">
     <?php
       $galleryImages = $page->gallery()->yaml();
       foreach ($galleryImages as $image) :

@@ -10,8 +10,6 @@ import { tns } from 'tiny-slider/src/tiny-slider.module';
  * Declaring custom functions
  */
 
-// 1. Simple JS feature detection
-
 function featureDetection() {
   let className = '';
   let html = '';
@@ -19,9 +17,6 @@ function featureDetection() {
   className = html.className.replace('no-js', 'js');
   html.className = className;
 }
-
-
-
 
 // forEach method, could be shipped as part of an Object Literal/Module
 var forEach = function (array, callback, scope) {
@@ -45,10 +40,6 @@ forEach(sliders, function (index, value) {
 });
 
 
-
-
-
-
 /*
  * Initializing functions
  */
@@ -56,10 +47,8 @@ forEach(sliders, function (index, value) {
 document.addEventListener('DOMContentLoaded', function(event) {
   featureDetection();
 
-  baguetteBox.run('.gallery', {
+  baguetteBox.run('.lightbox', {
     animation: 'fadeIn',
     // buttons: false,
   });
-    
-
 })
