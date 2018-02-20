@@ -38,6 +38,7 @@
     left: 0;
     opacity: 0.5;
     transition: opacity $base-duration $base-timing;
+    background-color: $green;
   }
 
   @each $site-slug, $signature-color in $signature-colors {
