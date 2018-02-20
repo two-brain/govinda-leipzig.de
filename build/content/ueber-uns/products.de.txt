@@ -12,16 +12,18 @@ Banner:
 
 Text: 
 
-# Über uns & die Govinda-Produkte
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+# Über uns & die Govinda-Produktlinie
+Wir leben auf einem Bauernhof nahe Leipzig (im weltberühmten Ochelmitz :-) und haben jetzt hier eine größere gewerbliche Küche, sodaß wir unsere Aufträge bestens erfüllen können.
+(image: ochelmitz.jpg)
 
 ---
 
 ## Das Team
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Jeder hat sein eigenes Steckenpferd (Peter ist der Gründer & Weiterentwickler von Govinda und Koch aus Leidenschaft, Robert ist der MacGyver & Bio Bauer, welcher im großen Stil bestes Bio Getreide liefert; Godruma ist gelernter Handwerker v.a. aber kein Kleingeist, daher unser Festivalkoch & 50.000 Leute Versorger und Dwaraka kocht gerne mit kreativem Händchen und Auge fürs Detail - zusammen sind wir das Govinda Team.
 
 ## Die Idee
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Vom Saatgut bis zum veredelten Endprodukt - alles selbstgemacht. Fantastisch!
+Wir wollen am liebsten Produkte verkaufen, die regional, biologisch und mit Liebe gemacht sind. Da wir schon gute Bedingungen  haben und sich vieles im Prozeß entwickelt und verbessert, fangen wir nun einfach mal an.
 
 ----
 
@@ -40,22 +42,28 @@ Seo:
 Classics: 
 
 - 
-  title: 'Produkt #1'
+  title: 'Energieschub und leckerer Snack - die Riegel'
   image: ""
-  text: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat.
+  text: |
+    Ausschließlich köstlich vegan, glutenfrei, ohne Zuckerzusatz, ohne künstliche Zusatzstoffe.
+    
+    Diese Energiespender sind handgefertigt aus besten natürlichen Zutaten und in vielen verschiedenen Sorten erhältlich. Von Apfel/Chia, Feige und Aprikose bis zu Dattel mit Amaranth Pops.
+  thumbs: |
+    - riegel1.jpg
+    - riegel2.jpg
+    - sweets1.jpg
 - 
-  title: 'Produkt #2'
+  title: 'Backen macht satt und glücklich - die Kekse'
   image: ""
-  text: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat.
+  text: |
+    Eigenes Bio-Getreide, beste Bio-Backzutaten (Vollrohrzucker,Trockenfrüchte, Kokosraspeln)  und ein super Ofen ..
+    
+    .. richtig! Diese Kombination schreit nach vielen leckeren Keksen. Wir habe tolle Rezepte zusammengetragen und unser Gebäck hat schon so manchem Festivalgast oder Marktstandbesucher den Tag versüßt. Backen macht glücklich. Nicht nur in der Weihnachtszeit!
+  thumbs: |
+    - cookies.jpg
+    - kekse1.jpg
+    - kekse2.jpg
+
+----
+
+Outro: (image: ochelmitz2.jpg)
