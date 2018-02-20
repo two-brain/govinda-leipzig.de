@@ -59,6 +59,7 @@ $about-us-link-rotation: -20deg;
     color: $light-green;
 
     &:hover,
+    &:focus,
     &.is-active {
       color: $white;
     }
@@ -70,17 +71,19 @@ $about-us-link-rotation: -20deg;
   top: $about-us-link-top;
   left: $about-us-link-left;
   border-bottom: 0;
-  transform: rotate($about-us-link-rotation);
-  z-index: 999;
-  fill: $green;
-  transition: fill 2 * $base-duration $base-timing;
-
-  &:hover {
-    fill: $light-green;
-  }
+  z-index: 500;
 
   svg {
     width: $about-us-link-dimension;
     height: $about-us-link-dimension;
+
+    path:first-child {
+      fill: $green;
+      transition: fill 2 * $base-duration $base-timing;
+    }
+
+    &:hover path:first-child {
+      fill: $light-green;
+    }
   }
 }
