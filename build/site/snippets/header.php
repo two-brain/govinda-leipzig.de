@@ -9,7 +9,6 @@
         <?= (new Asset('assets/images/govinda.svg'))->content() ?>
       </a>
       <?php if(!$page->isHomePage()) : ?>
-
       <div class="header-image">
         <?php
           if($image = $page->banner()->toFile()) {
@@ -21,8 +20,6 @@
         ?>
         <?php snippet('about-us-link') ?>
       </div>
-
-
       <nav class="nav">
         <?php
           $menuItems = $pages->visible();
