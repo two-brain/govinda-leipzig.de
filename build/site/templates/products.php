@@ -24,7 +24,7 @@
                 ?>
                 <div class="slide lightbox">
                   <a href="<?= $image->url() ?>" data-caption="<?= $image->img_title() ?>">
-                    <?= $crop->html() ?>
+                    <img src="<?= $crop->url() ?>" title="<?= $image->img_title() ?>" alt="<?= $image->img_desc() ?>">
                   </a>
                 </div>
                 <?php
@@ -33,13 +33,18 @@
                 ?>
               </div>
               <div class="thumbnails-<?= $slug ?>">
-                <?php foreach ($images as $image) : ?>
-                <?php if($image = $page->image($image)) : ?>
-                  <div class="thumbnail">
-                    <?= $image->crop(118, 118, 85)->html(); ?>
-                  </div>
-                <?php endif ?>
-                <?php endforeach ?>
+                <?php
+                  foreach ($images as $image) :
+                  if($image = $page->image($image)) :
+                  $thumb = $image->crop(118, 118, 85);
+                ?>
+                <div class="thumbnail" title="<?= $image->img_title() ?>">
+                  <img src="<?= $thumb->url() ?>" alt="<?= $image->img_desc() ?>">
+                </div>
+                <?php
+                  endif;
+                  endforeach;
+                ?>
               </div>
             </div>
           </div>
