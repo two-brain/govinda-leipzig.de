@@ -1,3 +1,5 @@
+$promo-paragraph-font-size: 14px;
+
 .promo {
   display: flex;
   flex-wrap: wrap;
@@ -30,7 +32,7 @@
     }
 
     p {
-      font-size: 15px;
+      font-size: $promo-paragraph-font-size;
       margin-top: 1.5 * $small-spacing;
     }
   }
