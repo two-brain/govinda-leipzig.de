@@ -17,7 +17,7 @@ Side:
   text: |
     ### Ansprechpartner
     Peter Panstingl
-    info(ät)govinda-leipzig.de
+    info@govinda-leipzig.de
     Telefon: 0341 - 35138983
     Mobil: 0178 - 1910864
 - 

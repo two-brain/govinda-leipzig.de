@@ -43,28 +43,27 @@ Side:
 
 - 
   text: |
-    ### Unser Ladenlokal
-    (zurzeit geschlossen)
-    Merseburger Str. 95
-    04177 Leipzig
-- 
-  text: |
-    ### Geschäftsführung / Postadresse
-    Peter Panstingl
+    ### Das Govinda-Team:
+    **Peter Panstingl**
     Zum Oberdorf 4
     04838 Jesewitz
     
-    info(ät)govinda-leipzig.de
-    Mobil: 0178 - 19 108 64
+    Steuernummer:237/255/03210
+    USt.-IdNr.: DE261238094
 - 
   text: |
-    ### Kontakt Catering
-    Daniel Fiskal
-    catering(ät)govinda-leipzig.de
-    Mobil: 0178 - 383 15 51
+    **Daniel Fiskal**
+    Zum Oberdorf 4
+    04838 Jesewitz
     
-    Steuernummer
-    237/255/03210
+    Steuernummer: 237/219/01106
+- 
+  text: |
+    **Frank-Matthias Walz**
+    Zum Oberdorf 4
+    04838 Jesewitz
+    
+    Steuernummer: 232/285/05587
 - 
   text: '<div class="flex"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2492.59791815595!2d12.327938000000001!3d51.33691499999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f7a48adcd2af%3A0x1677ad87e961643d!2sGovinda+Vegan+%2B+Vegetarisch!5e0!3m2!1sen!2sde!4v1409053285279" frameborder="0"></iframe></div>'
 

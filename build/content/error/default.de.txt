@@ -23,7 +23,7 @@ Side:
   text: |
     ### Ansprechpartner
     Daniel Fiskal
-    catering(ät)govinda-leipzig.de
+    catering@govinda-leipzig.de
     Telefon: 0178 - 3831551
 - 
   text: |
@@ -33,7 +33,7 @@ Side:
   text: |
     ### Ansprechpartner
     Peter Panstingl
-    info(ät)govinda-leipzig.de
+    info@govinda-leipzig.de
     Telefon: 0341 - 35138983
     Mobil: 0178 - 1910864
 

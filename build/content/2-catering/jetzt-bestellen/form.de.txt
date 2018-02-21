@@ -25,5 +25,5 @@ Side:
   text: |
     ### Ansprechpartner
     Daniel Fiskal
-    catering(ät)govinda-leipzig.de
+    catering@govinda-leipzig.de
     Telefon: 0178 - 3831551

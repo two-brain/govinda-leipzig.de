@@ -98,13 +98,13 @@ Side:
     Zum Oberdorf 4
     04838 Jesewitz
     
-    info(ät)govinda-leipzig.de
+    info@govinda-leipzig.de
     Mobil: 0178 - 19 108 64
 - 
   text: |
     ### Kontakt Catering
     Daniel Fiskal
-    catering(ät)govinda-leipzig.de
+    catering@govinda-leipzig.de
     Mobil: 0178 - 383 15 51
 
 ----
