@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Merriweather';
+  src: url('/assets/fonts/Merriweather-Light-subset.woff2') format('woff2'),
+       url('/assets/fonts/Merriweather-Light-subset.zopfli.woff') format('woff'),
+       url('/assets/fonts/Merriweather-Light-subset.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('/assets/fonts/Merriweather-Bold-subset.woff2') format('woff2'),
+       url('/assets/fonts/Merriweather-Bold-subset.zopfli.woff') format('woff'),
+       url('/assets/fonts/Merriweather-Bold-subset.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
