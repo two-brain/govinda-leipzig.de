@@ -1,3 +1,12 @@
+<?php
+
+c::set('thumbs.driver', 'im');
+c::set('thumbs.quality', 85);
+
+// ImageSet options - see https://github.com/fabianmichael/kirby-imageset
+c::set('imageset.placeholder', 'blurred');
+
+
 /*
  * Resizing images on upload / replacement
  */
@@ -14,7 +23,7 @@ function resizeImage($file) {
       // get the original file path
       $originalPath = $file->dir() . '/' . $file->filename();
       // create a thumb and get its path
-      $resizedImage = $file->resize($maxDimension, null, c::get('govinda.upload-quality'));
+      $resizedImage = $file->resize($maxDimension, null, c::get('thumbs.quality'));
       $resizedPath = $resizedImage->dir() . '/' . $resizedImage->filename();
       // replace the original image with the resized one
       copy($resizedPath, $originalPath);
