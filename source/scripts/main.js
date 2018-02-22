@@ -18,14 +18,13 @@ function featureDetection() {
   html.className = className;
 }
 
-// forEach method, could be shipped as part of an Object Literal/Module
-var forEach = function (array, callback, scope) {
-  for (var i = 0; i < array.length; i++) {
-    callback.call(scope, i, array[i]); // passes back stuff we need
+const forEach = function (array, callback, scope) {
+  for (let i = 0; i < array.length; i++) {
+    callback.call(scope, i, array[i]);
   }
 };
 
-var sliders = document.querySelectorAll('.slides');
+const sliders = document.querySelectorAll('.slides');
 forEach(sliders, function (index, value) {
   let thumbnail = value.dataset.name;
   let slider = tns({
@@ -46,9 +45,5 @@ forEach(sliders, function (index, value) {
 
 document.addEventListener('DOMContentLoaded', function(event) {
   featureDetection();
-
-  baguetteBox.run('.lightbox', {
-    animation: 'fadeIn',
-    // buttons: false,
-  });
+  baguetteBox.run('.lightbox', { animation: 'fadeIn' });
 })
