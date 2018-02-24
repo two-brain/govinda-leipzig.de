@@ -2,7 +2,7 @@
 
   <section class="page">
     <?= $page->text()->kt() ?>
-    <?php snippet('form', compact('data')) ?>
+    <?php snippet('orders/form', compact('data')) ?>
   </section>
 
 <?php snippet('footer') ?>
