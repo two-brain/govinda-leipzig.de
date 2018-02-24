@@ -14,12 +14,10 @@ main {
 
 .page {
   border-top: $base-border;
-  padding-top: $small-spacing;
 }
 
 .content {
   border-top: $base-border;
-  // padding-top: $small-spacing;
 
   @include grid-media($large) {
     @include grid-column(8);

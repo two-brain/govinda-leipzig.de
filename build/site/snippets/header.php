@@ -12,13 +12,14 @@
       <div class="header-image">
         <?php
           if($image = $page->banner()->toFile()) {
-            echo $image->imageset([ '900x243' ], [ 'placeholder' => 'triangles', 'alt' => $image->img_desc() ]);
+            $crop = $image->crop(900, 243, 85);
+            echo '<img src="' . $crop->url() . '" alt="' . $image->img_desc() . '">';
           } else {
-            $fallback = new Asset('assets/images/header.jpg');
-            echo imageset($fallback, [ '900x243' ], [ 'placeholder' => 'triangles', 'alt' => 'Die ganze Welt der indischen Küche | Govinda - Vegan + Vegetarirsch' ]);
+            $fallback = (new Asset('assets/images/header.jpg'))->crop(900, 243, 85);
+            echo '<img src="' . $fallback->url() . '" alt="Die ganze Welt der indischen Küche | Govinda - Vegan + Vegetarirsch">';
           }
         ?>
-        <?php snippet('about-us-link') ?>
+        <?php snippet('partials/about-us-link') ?>
       </div>
       <nav class="nav">
         <?php

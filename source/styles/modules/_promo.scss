@@ -1,3 +1,5 @@
+$promo-heading-font-size: 19px;
+$promo-image-hover-opacity: 0.75;
 $promo-paragraph-font-size: 14px;
 
 .promo {
@@ -41,19 +43,18 @@ $promo-paragraph-font-size: 14px;
     border: 0;
     outline: 0;
 
-    .imageset-element {
-      transition: opacity $base-duration $base-timing !important;
-      vertical-align: bottom;
+    img {
+      transition: opacity $base-duration $base-timing;
       border-radius: $base-border-radius $base-border-radius 0 0;
     }
 
-    &:hover .imageset-element {
-      opacity: 0.75 !important;
+    &:hover img {
+      opacity: $promo-image-hover-opacity;
     }
 
     h2 {
       color: $white;
-      font-size: 19px;
+      font-size: $promo-heading-font-size;
       font-weight: 300;
       letter-spacing: 2px;
       margin: 0;
