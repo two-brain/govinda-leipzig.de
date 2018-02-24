@@ -9,3 +9,7 @@ picture {
   max-width: 100%;
   vertical-align: bottom;
 }
+
+.no-js [data-layzr] {
+  display: none;
+}

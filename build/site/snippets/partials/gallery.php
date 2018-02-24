@@ -6,7 +6,10 @@
       $crop = $image->crop(150, null, 85);
     ?>
     <a class="gallery__item" href="<?= $image->url() ?>" data-caption="<?= $image->img_title() ?>">
-      <img src="<?= $crop->url() ?>" alt="<?= $image->img_desc() ?>">
+      <img data-layzr="<?= $crop->url() ?>" alt="<?= $image->img_desc() ?>">
+      <noscript>
+        <img src="<?= $crop->url() ?>" alt="<?= $image->img_desc() ?>">
+      </noscript>
     </a>
     <?php endforeach ?>
   </div>
