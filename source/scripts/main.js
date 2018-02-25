@@ -4,7 +4,7 @@
 
 import baguetteBox from 'baguettebox.js';
 import { tns } from 'tiny-slider/src/tiny-slider.module';
-
+import Layzr from 'layzr.js';
 
 /*
  * Declaring custom functions
@@ -17,6 +17,11 @@ function featureDetection() {
   className = html.className.replace('no-js', 'js');
   html.className = className;
 }
+
+const lazyload = Layzr({
+  normal: 'data-layzr',
+  threshold: 25
+});
 
 const forEach = function (array, callback, scope) {
   for (let i = 0; i < array.length; i++) {
@@ -43,7 +48,9 @@ forEach(sliders, function (index, value) {
  * Initializing functions
  */
 
-document.addEventListener('DOMContentLoaded', function(event) {
-  featureDetection();
-  baguetteBox.run('.lightbox', { animation: 'fadeIn' });
-})
+featureDetection();
+lazyload
+  .update()
+  .check()
+  .handlers(true);
+baguetteBox.run('.lightbox', { animation: 'fadeIn' });

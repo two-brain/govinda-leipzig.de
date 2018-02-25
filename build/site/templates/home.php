@@ -9,11 +9,16 @@
   ?>
   <div class="promo__item promo__item--<?= $item->link() ?>">
     <a class="promo__link" href="<?= url($item->link()) ?>">
-      <?php e($image = $item->image()->toFile(), $image->imageset([ '214' ], [ 'alt' => $image->img_desc() ])) ?>
+      <?php
+        if($image = $item->image()->toFile()) :
+        $crop = $image->crop(214, 243, 85);
+      ?>
+      <img src="<?= $crop->url() ?>" alt="<?= $image->img_desc() ?>">
+      <?php endif ?>
       <h2><?= $item->title() ?></h2>
     </a>
     <?= $item->text()->kt() ?>
-    <?php if($count == 1) { snippet('about-us-link'); } ?>
+    <?php if($count == 1) { snippet('partials/about-us-link'); } ?>
   </div>
   <?php endforeach ?>
 </div>

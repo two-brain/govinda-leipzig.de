@@ -7,9 +7,6 @@
 [submodule "build/site/plugins/imageset"]
 	path = build/site/plugins/imageset
 	url = https://github.com/fabianmichael/kirby-imageset.git
-[submodule "build/site/plugins/images"]
-	path = build/site/plugins/images
-	url = https://github.com/medienbaecker/kirby-images.git
 [submodule "build/site/plugins/seo"]
 	path = build/site/plugins/seo
 	url = https://github.com/jenstornell/kirby-seo.git
@@ -22,3 +19,6 @@
 [submodule "build/site/plugins/quickselect"]
 	path = build/site/plugins/quickselect
 	url = https://github.com/medienbaecker/kirby-quickselect.git
+[submodule "build/site/plugins/images"]
+	path = build/site/plugins/images
+	url = https://github.com/medienbaecker/kirby-images.git

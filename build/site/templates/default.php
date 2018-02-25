@@ -3,7 +3,7 @@
 <div class="wrap">
   <section class="content">
     <?= $page->text()->kt() ?>
-    <?php snippet('gallery') ?>
+    <?php snippet('partials/gallery') ?>
   </section>
   <?php snippet('sidebar') ?>
 </div>

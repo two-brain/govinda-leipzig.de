@@ -7,4 +7,9 @@ svg,
 picture {
   margin: 0;
   max-width: 100%;
+  vertical-align: bottom;
+}
+
+.no-js [data-layzr] {
+  display: none;
 }

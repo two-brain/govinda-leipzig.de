@@ -61,7 +61,7 @@ function addToStructure($p, $field, $data = array()) {
     ));
 
     // create the body from a simple snippet
-    $body  = snippet('order', $data, true);
+    $body  = snippet('orders/order', $data, true);
 
     // build the email
     $email = email(array(
