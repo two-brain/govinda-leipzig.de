@@ -30,7 +30,7 @@
         <?php endforeach ?>
       </nav>
       <?php endif ?>
-      <a class="badge-link facebook" href="<?= $site->facebook() ?>">
+      <a class="badge-link facebook" href="<?= $site->facebook() ?>" title="Besucht uns auf Facebook!" alt="Facebook-Logo">
         <?= (new Asset('assets/images/facebook-big.svg'))->content() ?>
       </a>
     </header>
