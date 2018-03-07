@@ -2,7 +2,7 @@ Tab1:
 
 ----
 
-Title: Über uns
+Title: Wir über uns
 
 ----
 
@@ -14,6 +14,7 @@ Text:
 
 # Über uns & die Govinda-Produktlinie
 Wir leben auf einem Bauernhof nahe Leipzig (im weltberühmten Ochelmitz :-) und haben jetzt hier eine größere gewerbliche Küche, sodaß wir unsere Aufträge bestens erfüllen können.
+
 (image: ochelmitz.jpg)
 
 ---

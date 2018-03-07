@@ -1,10 +1,10 @@
-Title: Allgemeine Geschäftsbedingungen
+Title: Unsere AGBs
 
 ----
 
 Text: 
 
-# AGB - Govinda Catering
+# Allgemeine Geschäftsbedingungen
 
 ## 1. Anwendungsbereich
 Diese Allgemeinen Geschäftsbedingungen gelten für Leistungen von Govinda vegan + vegetarisch für Veranstaltungen und die gastronomische Bewirtung (Catering und Events). Entgegenstehenden oder zusätzlichen Bedingungen des Kunden wird widersprochen. Sie gelten nur, wenn sich Govinda vegan + vegetarisch schriftlich und ausdrücklich mit ihnen oder mit Teilen davon einverstanden erklärt hat.
@@ -90,7 +90,7 @@ Side:
 - 
   text: |
     ### Download
-    Sie können unsere AGB auch als PDF-Datei (file: agb_govinda-vegan-vegetarisch.pdf text: herunterladen).
+    Sie können unsere AGBs auch als PDF-Datei (file: agb_govinda-vegan-vegetarisch.pdf text: herunterladen).
 - 
   text: |
     ### Geschäftsführung / Postadresse
@@ -114,3 +114,7 @@ Banner:
 ----
 
 Gallery: 
+
+----
+
+Seo: 
