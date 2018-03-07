@@ -4,8 +4,14 @@ $header-nav-padding-bottom: 4px;
 $about-us-link-dimension: 115px;
 $about-us-link-left: -20px;
 $about-us-link-top: -30px;
+$facebook-link-dimension: 40px;
+$facebook-link-right: -30px;
+$facebook-link-top: 10px;
+$facebook-blue: #3b5998;
+$facebook-dark-blue: #29487d;
 
 .site-header {
+  position: relative;
   text-align: center;
   padding-top: 1.5 * $base-spacing;
 }
@@ -65,24 +71,48 @@ $about-us-link-top: -30px;
   }
 }
 
-.about-us--link {
+.badge-link {
   position: absolute;
-  top: $about-us-link-top;
-  left: $about-us-link-left;
   border-bottom: 0;
   z-index: 500;
 
-  svg {
-    width: $about-us-link-dimension;
-    height: $about-us-link-dimension;
+  svg path {
+    transition: fill 2 * $base-duration $base-timing;
+  }
 
-    path:first-child {
-      fill: $green;
-      transition: fill 2 * $base-duration $base-timing;
+  &.about {
+    top: $about-us-link-top;
+    left: $about-us-link-left;
+
+    svg {
+      width: $about-us-link-dimension;
+      height: $about-us-link-dimension;
+
+      path:first-child {
+        fill: $green;
+      }
+
+      &:hover path:first-child {
+        fill: $light-green;
+      }
     }
+  }
 
-    &:hover path:first-child {
-      fill: $light-green;
+  &.facebook {
+    top: $facebook-link-top;
+    right: $facebook-link-right;
+
+    svg {
+      width: $facebook-link-dimension;
+      height: $facebook-link-dimension;
+
+      path {
+        fill: $facebook-blue;
+      }
+
+      &:hover path {
+        fill: $facebook-dark-blue;
+      }
     }
   }
 }

@@ -8,6 +8,9 @@
       </div>
       <nav class="footer-nav">
         <ul class="secondary-links inline">
+          <li><a href="<?= page('ueber-uns')->url() ?>">
+            <?= page('ueber-uns')->title() ?>
+          </a></li>
           <li><a href="<?= page('allgemeine-geschaeftsbedingungen')->url() ?>">
             <?= page('allgemeine-geschaeftsbedingungen')->title() ?>
           </a></li>
@@ -21,7 +24,7 @@
             <?= (new Asset('assets/images/mail.svg'))->content() ?>
             </a></li>
 
-          <li><a href="https://www.facebook.com/pages/Govinda-Vegan-Vegetarisch/112828825406718?ref=hl">
+          <li><a href="<?= $site->facebook() ?>">
             <?= (new Asset('assets/images/facebook.svg'))->content() ?>
           </a></li>
         </ul>
