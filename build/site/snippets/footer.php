@@ -24,7 +24,7 @@
             <?= (new Asset('assets/images/mail.svg'))->content() ?>
             </a></li>
 
-          <li><a href="<?= $site->facebook() ?>">
+          <li><a href="<?= $site->facebook() ?>" title="Besucht uns auf Facebook!" alt="Facebook-Logo" target="_blank">
             <?= (new Asset('assets/images/facebook.svg'))->content() ?>
           </a></li>
         </ul>
