@@ -5,7 +5,11 @@ files: true
 
 fields:
   tab1:
-    label: Allgemeines
+    label: Bestellungen
+    type:  tabs
+  orders: orders
+  tab2:
+    label: Einstellungen 
     type:  tabs
   title:
     label: Name der Website
@@ -15,10 +19,3 @@ fields:
     label: E-Mail
     type: email
     width: 1/3
-  facebook:
-    label: Facebook
-    type: url
-  tab2:
-    label: Bestellungen
-    type:  tabs
-  orders: orders
