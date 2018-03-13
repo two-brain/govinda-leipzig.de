@@ -40,8 +40,8 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 c::set('panel.stylesheet', 'assets/panel.css');
 c::set('panel.widgets', array(
   'pages'    => true,
+  'history'  => true,
   'orders'   => true,
   'site'     => false,
-  'account'  => false,
-  'history'  => false
+  'account'  => false
 ));

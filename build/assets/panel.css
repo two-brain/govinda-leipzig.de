@@ -20,3 +20,18 @@
     border-width: 1px;
   }
 }*/
+
+@media screen and (min-width: 40em) {
+  .dashboard {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 1.5em;
+    -moz-column-count: 2;
+    -moz-column-gap: 1.5em;
+    column-count: 2;
+    column-gap: 1.5em;
+  }
+}
+
+.dashboard-orders h3 {
+  text-decoration: underline;
+}

@@ -5,21 +5,31 @@
   foreach ($orders as $order) :
 ?>
 
-<div class="dashboard-box">
+<div class="dashboard-box dashboard-orders">
   <div class="text">
-    <h3 class="">
-      <span class="">
-        Bestellung von <a href="mailto:<?= $order->mail() ?>"><?= $order->full_name() ?></a>:
-      </span>
-      <span class="hgroup-option-right">
-        <?php e($order->datum()->isNotEmpty(), $order->datum()) ?>
-      </span>
+    <h3>
+      Bestellung von <?= $order->full_name() ?>:
     </h3>
     <?= $order->nachricht() ?>
-    <br>
-<br>
-<?= $order->datum() ?>
-
+  </div>
+  <div class="text">
+    <h4>Kontakt</h4>
+    <ul class="dashboard-items">
+      <li>
+        E-Mail: <a href="mailto:<?= $order->email() ?>"><?= $order->email() ?></a>
+      </li>
+      <?php e($order->telefon()->isNotEmpty(), '<li>Telefon: ' . $order->telefon() . '</li>') ?>
+    </ul>
+  </div>
+  <div class="text">
+    <h4>Sonstige Angaben:</h4>
+    <ul class="dashboard-items">
+      <li>
+        Vegan?<?php e($order->vegan() == 'ja', ' ja', ' nein') ?>
+      </li>
+      <?php e($order->datum()->isNotEmpty(), '<li>Datum: ' . $order->datum() . '</li>') ?>
+      <?php e($order->art()->isNotEmpty(), '<li>Art der Veranstaltung: ' . $order->art() . '</li>') ?>
+    </ul>
   </div>
 </div>
 
