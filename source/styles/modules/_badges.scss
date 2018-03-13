@@ -1,0 +1,56 @@
+$about-us-green: #789417;
+$about-us-green--hover: $orange;
+$about-us-link-dimension: 115px;
+$about-us-link-left: -20px;
+$about-us-link-top: -30px;
+$facebook-link-dimension: 40px;
+$facebook-link-right: -30px;
+$facebook-link-top: 10px;
+$facebook-blue: #3b5998;
+$facebook-blue--hover: #29487d;
+
+.badge-link {
+  position: absolute;
+  border-bottom: 0;
+  z-index: 500;
+
+  svg path {
+    transition: fill 2 * $base-duration $base-timing;
+  }
+
+  &.about {
+    top: $about-us-link-top;
+    left: $about-us-link-left;
+
+    svg {
+      width: $about-us-link-dimension;
+      height: $about-us-link-dimension;
+
+      path:first-child {
+        fill: $about-us-green;
+      }
+
+      &:hover path:first-child {
+        fill: $about-us-green--hover;
+      }
+    }
+  }
+
+  &.facebook {
+    top: $facebook-link-top;
+    right: $facebook-link-right;
+
+    svg {
+      width: $facebook-link-dimension;
+      height: $facebook-link-dimension;
+
+      path {
+        fill: $facebook-blue;
+      }
+
+      &:hover path {
+        fill: $facebook-blue--hover;
+      }
+    }
+  }
+}

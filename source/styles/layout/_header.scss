@@ -1,14 +1,6 @@
 $content-top-spacing: 3.5em;
 $header-nav-padding-top: 70px;
 $header-nav-padding-bottom: 4px;
-$about-us-link-dimension: 115px;
-$about-us-link-left: -20px;
-$about-us-link-top: -30px;
-$facebook-link-dimension: 40px;
-$facebook-link-right: -30px;
-$facebook-link-top: 10px;
-$facebook-blue: #3b5998;
-$facebook-dark-blue: #29487d;
 
 .site-header {
   position: relative;
@@ -67,52 +59,6 @@ $facebook-dark-blue: #29487d;
     &:focus,
     &.is-active {
       color: $white;
-    }
-  }
-}
-
-.badge-link {
-  position: absolute;
-  border-bottom: 0;
-  z-index: 500;
-
-  svg path {
-    transition: fill 2 * $base-duration $base-timing;
-  }
-
-  &.about {
-    top: $about-us-link-top;
-    left: $about-us-link-left;
-
-    svg {
-      width: $about-us-link-dimension;
-      height: $about-us-link-dimension;
-
-      path:first-child {
-        fill: $green;
-      }
-
-      &:hover path:first-child {
-        fill: $light-green;
-      }
-    }
-  }
-
-  &.facebook {
-    top: $facebook-link-top;
-    right: $facebook-link-right;
-
-    svg {
-      width: $facebook-link-dimension;
-      height: $facebook-link-dimension;
-
-      path {
-        fill: $facebook-blue;
-      }
-
-      &:hover path {
-        fill: $facebook-dark-blue;
-      }
     }
   }
 }
