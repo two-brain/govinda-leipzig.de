@@ -1,6 +1,6 @@
-title: Angebot
+title: Produkte
 
-pages: true
+pages: false
 files: true
   fields:
     img_title:

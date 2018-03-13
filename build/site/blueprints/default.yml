@@ -33,12 +33,11 @@ fields:
     label: Text
     type:  textarea
   tab2:
-    label: Galerie (Catering & Festivals)
+    label: Galerie
     type:  tabs
   gallery:
     label: Bildergalerie
     type: images
-    limit: 18
   tab3:
     label: Seitenleiste
     type:  tabs

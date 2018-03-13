@@ -14,6 +14,7 @@ For kirby-compress plugin, see here: https://github.com/iksi/kirby-compress
 c::set('env', 'production');
 c::set('debug', false);
 c::set('thumbs.driver', 'gd');
+c::set('cache', true);
 c::set('cache.ignore', array(
   'catering/jetzt-bestellen'
 ));
