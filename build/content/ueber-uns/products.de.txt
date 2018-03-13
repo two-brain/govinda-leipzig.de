@@ -19,8 +19,8 @@ Wir leben auf einem Bauernhof nahe Leipzig (im weltberühmten Ochelmitz :-) und 
 
 ---
 
-## Das Team
-Jeder hat sein eigenes Steckenpferd (Peter ist der Gründer & Weiterentwickler von Govinda und Koch aus Leidenschaft, Robert ist der MacGyver & Bio Bauer, welcher im großen Stil bestes Bio Getreide liefert; Godruma ist gelernter Handwerker v.a. aber kein Kleingeist, daher unser Festivalkoch & 50.000 Leute Versorger und Dwaraka kocht gerne mit kreativem Händchen und Auge fürs Detail - zusammen sind wir das Govinda Team.
+## Das Govinda-Team
+Jeder hat sein eigenes Steckenpferd (Peter ist der Gründer & Weiterentwickler von Govinda und Koch aus Leidenschaft, Robert ist der MacGyver & Bio-Bauer, der im großen Stil bestes Bio-Getreide liefert. Godruma ist gelernter Handwerker, vor allem aber kein Kleingeist und daher unser Festivalkoch & 50.000-Leute-Versorger und Dwaraka kocht gerne mit kreativem Händchen und Auge fürs Detail - zusammen sind wir das Govinda-Team.
 
 ## Die Idee
 Vom Saatgut bis zum veredelten Endprodukt - alles selbstgemacht. Fantastisch!
@@ -37,6 +37,10 @@ Tab3:
 ----
 
 Seo: 
+
+-
+  seo-title: "Backen macht glücklich: Eigenprodukte von Govinda Leipzig!"
+  seo-description: "Vom Saatgut bis zum veredelten Endprodukt: unsere leckeren Riegel und Kekse sind regional, biologisch und mit Liebe gemacht - einfach schmecken lassen!"
 
 ----
 

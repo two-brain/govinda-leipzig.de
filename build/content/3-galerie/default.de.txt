@@ -5,7 +5,7 @@ Title: Galerie
 Text: 
 
 # Galerie
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hier seht ihr eine Auswahl an Gerichten, die wir in unserem Angebot haben. Ihr könnt die Bilder anwählen und kleine Bemerkungen dazu lesen - und da unser Angebot mit der Zeit geht und nicht statisch ist, kann es immer mal sein, dass ein neues Rezept in unser Angebot aufgenommen wird und ein anderes rausfällt.
 
 ---
 
@@ -15,12 +15,16 @@ Side:
 
 - 
   text: |
-    ### Jetzt bestellen
-    Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
+    ### Unbedingt probieren
+    Vom Saatgut bis zum veredelten Endprodukt - bei unsere (link: ueber-uns text: Riegeln und Keksen) ist alles selbstgemacht!
 - 
   text: |
-    ### Immer unterwegs
-    Wenn ihr wissen wollt, welche Festivals wir besuchen, dann schaut auf (link: https://www.facebook.com/pages/Govinda-Vegan-Vegetarisch/112828825406718?ref=hl text: Facebook) vorbei!
+    ### Hautnah dabei
+    Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
+- 
+  text: |
+    ### Jetzt bestellen
+    Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
 
 ----
 
@@ -48,3 +52,11 @@ Gallery:
 - galerie-16.jpg
 - galerie-17.jpg
 - galerie-18.jpg
+
+----
+
+Seo: 
+
+-
+  seo-title: "Das Auge isst mit - am liebsten bei Govinda Leipzig!"
+  seo-description: "Unsere Speisen sind vieles - außer langweilig. Kommt mit auf eine bunte Reise durch die Welt des Geschmacks und überzeugt euch selbst in unserer Galerie."

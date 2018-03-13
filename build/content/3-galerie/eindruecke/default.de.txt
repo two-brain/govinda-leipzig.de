@@ -1,0 +1,103 @@
+Tab1: 
+
+----
+
+Title: Kulinarische Einblicke
+
+----
+
+Banner: 
+
+----
+
+Text: 
+
+# Kulinarische Eindrücke
+So und hier haben wir für Euch einige Fotos von vergangenen Festen. Wir waren bei Konferenzen, Seminaren, Workshops, Geburtstagsfeiern, Einschulungen, Abschlussfeiern und Hochzeiten. Von den bescheidenen Anfängen bis heute – wenn wir die Zeit und das Handy gefunden haben – ist immer mal wieder ein Foto entstanden. Nicht bearbeitet ( kein Photoshop!) und nicht gestellt – authentisch und hoffentlich ein gutes Zeugnis :-)
+
+----
+
+Tab2: 
+
+----
+
+Gallery: 
+
+- 2017-09-18-photo-00000002.jpg
+- 2017-09-18-photo-00000003.jpg
+- 2017-09-18-photo-00000004.jpg
+- 2017-09-18-photo-00000005.jpg
+- 2017-09-18-photo-00000006.jpg
+- 2017-09-18-photo-00000007.jpg
+- 2017-09-18-photo-00000008.jpg
+- 2017-09-18-photo-00000009.jpg
+- 2017-09-18-photo-00000010.jpg
+- 2017-09-18-photo-00000011.jpg
+- 2017-09-18-photo-00000012.jpg
+- 2017-09-18-photo-00000013.jpg
+- 2017-09-18-photo-00000014.jpg
+- 2017-09-18-photo-00000015.jpg
+- 2017-09-18-photo-00000016.jpg
+- 2017-09-18-photo-00000017.jpg
+- 2017-09-18-photo-00000018.jpg
+- 2017-09-18-photo-00000019.jpg
+- 2017-09-18-photo-00000020.jpg
+- 2017-09-18-photo-00000021.jpg
+- 2017-09-18-photo-00000022.jpg
+- 20170725_143146.jpg
+- 20170725_143153.jpg
+- 20170725_143220.jpg
+- 20170725_143235.jpg
+- 20170725_143242.jpg
+- 20170725_144016.jpg
+- 20170725_144030.jpg
+- 20170725_144044.jpg
+- 20170725_144101.jpg
+- 20170725_144126.jpg
+- 20170725_144148.jpg
+- 20170725_144156.jpg
+- 20170804_190733.jpg
+- 20170804_190741.jpg
+- 20170804_190751.jpg
+- 20170804_190800.jpg
+- 20170804_190807.jpg
+- 20170804_190815.jpg
+- img_0031.jpg
+- img_0032.jpg
+- img_0033.jpg
+- img_0034.jpg
+- img_0035.jpg
+- img_0036.jpg
+
+----
+
+Tab3: 
+
+----
+
+Side: 
+
+- 
+  text: |
+    ### Unbedingt probieren
+    Vom Saatgut bis zum veredelten Endprodukt - bei unsere (link: ueber-uns text: Riegeln und Keksen) ist alles selbstgemacht!
+- 
+  text: |
+    ### Immer unterwegs
+    Wenn ihr wissen wollt, welche Festivals wir besuchen, dann schaut auf (link: https://www.facebook.com/pages/Govinda-Vegan-Vegetarisch/112828825406718?ref=hl text: Facebook) vorbei!
+- 
+  text: |
+    ### Jetzt bestellen
+    Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
+
+----
+
+Tab4: 
+
+----
+
+Seo: 
+
+-
+  seo-title: "Höchster Genuss hat einen Namen - Govinda Leipzig!"
+  seo-description: "Ob Geburtstag, Einschulung, Konferenzen, Seminare, Hochzeiten .. wir begleiten jede Veranstaltung mit zeitlosen Klassikern und unvergesslichen Kreationen. "

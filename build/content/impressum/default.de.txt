@@ -78,3 +78,7 @@ Gallery:
 ----
 
 Seo: 
+
+-
+  seo-title: "Jeder braucht ein Impressum - auch Govinda Leipzig!"
+  seo-description: "Hier finden Sie rechtliche Informationen zu unserem Onlineangebot, Kontaktinformationen und erfahren Wissenswertes zum Datenschutz."

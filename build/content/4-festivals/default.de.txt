@@ -23,7 +23,7 @@ Side:
 - 
   text: |
     ### Immer unterwegs
-    Wenn ihr wissen wollt, welche Festivals wir besuchen, dann schaut auf (link: https://www.facebook.com/pages/Govinda-Vegan-Vegetarisch/112828825406718?ref=hl text: Facebook) vorbei!
+    Wenn ihr wissen wollt, welche Festivals wir besuchen, dann schaut auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes) vorbei!
 - 
   text: |
     ### Jetzt bestellen
@@ -55,3 +55,11 @@ Gallery:
 - festival-galerie-16.jpg
 - festival-galerie-17.jpg
 - festival-galerie-18.jpg
+
+----
+
+Seo: 
+
+-
+  seo-title: "Mit Imbisswagen auf Festivaltour - Govinda Leipzig ROCKT!"
+  seo-description: "Wir lieben Festivals, Straßenfeste und Messen - unser eingespieltes Festivalteam sorgt für schnelle & geschmackvolle Verköstigung Ihrer Besucher - yeah!"

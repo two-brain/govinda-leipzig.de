@@ -118,3 +118,7 @@ Gallery:
 ----
 
 Seo: 
+
+-
+  seo-title: "Allgemeine Geschäftsbedingungen von Govinda Leipzig"
+  seo-description: "Allgemeine Geschäftsbedingungen sind etwas für Kenner. Achtung: bewusst genießen!"

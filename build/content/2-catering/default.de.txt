@@ -33,10 +33,18 @@ Side:
     Daniel Fiskal
     catering@govinda-leipzig.de
     Telefon: 0178 - 3831551
+    
+    Pradyumna (rein vegan)
+    MAIL@MAIL.de
+    Telefon: TELEFON
 - 
   text: |
     ### Jetzt bestellen
     Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
+- 
+  text: |
+    ### Hautnah dabei
+    Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
 
 ----
 
@@ -54,3 +62,7 @@ Gallery:
 ----
 
 Seo: 
+
+-
+  seo-title: "Govinda Leipzig - Vegan + Vegetarisches Catering mal anders!"
+  seo-description: "Mit internationalen Spezialitäten für jeden Anlass sorgen wir für das kulinarische Wohl Ihrer Gäste - gern auch rein vegan oder in bester Bio-Qualität."
