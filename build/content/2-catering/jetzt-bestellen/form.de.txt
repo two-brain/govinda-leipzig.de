@@ -2,7 +2,7 @@ Title: Bestellformular
 
 ----
 
-Text: 
+Text:
 
 # Unverbindliche Anfrage
 Über das Bestelltformular könnt Ihr uns direkt und unverbindlich Eure Wünsche und Anfragen für Euer Catering mitteilen. Wir werden Euch dann mit einem ersten Angebot kontaktieren.
@@ -19,7 +19,7 @@ Text:
 
 ----
 
-Side: 
+Side:
 
 -
   text: |
@@ -27,3 +27,8 @@ Side:
     Daniel Fiskal
     catering@govinda-leipzig.de
     Telefon: 0178 - 3831551
+-
+
+text: |
+  ### Hautnah dabei
+  Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!

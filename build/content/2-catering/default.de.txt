@@ -2,7 +2,7 @@ Title: Catering
 
 ----
 
-Text: 
+Text:
 
 # Catering einmal anders!
 Wir stellen Euch für jeden Anlass eine reiche Auswahl internationaler Spezialitäten zusammen. Überrascht Eure Gäste mit einem Geschmackserlebnis der besonderen Art! Dabei greifen wir aus Überzeugung auf frische und gesunde Zutaten zurück: mindestens 20% bio bei Gemüse, Obst & Zucker etc sowie vorrangig regionale Erzeugnisse - auf Wunsch auch mehr!
@@ -25,23 +25,23 @@ Wir stellen Euch für jeden Anlass eine reiche Auswahl internationaler Spezialit
 
 ----
 
-Side: 
+Side:
 
-- 
+-
   text: |
     ### Ansprechpartner
     Daniel Fiskal
     catering@govinda-leipzig.de
     Telefon: 0178 - 3831551
-    
+
     Pradyumna (rein vegan)
     MAIL@MAIL.de
     Telefon: TELEFON
-- 
+-
   text: |
-    ### Jetzt bestellen
-    Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
-- 
+    ### Lust bekommen?
+    Holt euch ein unverbindliches Angebot - hier geht's zu unserem (link: /catering/jetzt-bestellen/ text: Kontaktformular).
+-
   text: |
     ### Hautnah dabei
     Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
@@ -52,7 +52,7 @@ Banner: header-catering.jpg
 
 ----
 
-Gallery: 
+Gallery:
 
 - tischwaesche.jpg
 - stehtisch.jpg
@@ -61,7 +61,7 @@ Gallery:
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Govinda Leipzig - Vegan + Vegetarisches Catering mal anders!"

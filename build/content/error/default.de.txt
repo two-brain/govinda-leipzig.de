@@ -17,8 +17,8 @@ Side:
 
 - 
   text: |
-    ### Jetzt bestellen
-    Ihr habt Lust bekommen? Hier geht's zum (link: /catering/jetzt-bestellen/ text: Bestellformular).
+    ### Lust bekommen?
+    Holt euch ein unverbindliches Angebot - hier geht's zu unserem (link: /catering/jetzt-bestellen/ text: Kontaktformular).
 - 
   text: |
     ### Ansprechpartner
