@@ -43,7 +43,7 @@
 
     <?php endif ?>
 
-    <?php if($page->uid() == 'jetzt-bestellen') : ?>
+    <?php if($page->uid() == 'unverbindliche-anfrage') : ?>
 
       <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js" charset="utf-8"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/locale/de.js" charset="utf-8"></script>
