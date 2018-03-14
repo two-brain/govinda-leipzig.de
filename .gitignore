@@ -1,4 +1,5 @@
 node_modules
+build/logger
 build/assets
 !build/assets/panel.css
 build/site/config/license.php
