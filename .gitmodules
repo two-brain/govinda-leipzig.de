@@ -22,3 +22,6 @@
 [submodule "build/site/plugins/images"]
 	path = build/site/plugins/images
 	url = https://github.com/medienbaecker/kirby-images.git
+[submodule "build/site/plugins/logger"]
+	path = build/site/plugins/logger
+	url = https://github.com/texnixe/kirby-logger.git
