@@ -1,6 +1,6 @@
 <?php
   $site = panel()->site();
-  $orders = $site->orders()->toStructure()->limit(5);
+  $orders = $site->orders()->toStructure()->flip()->limit(5);
 
   foreach ($orders as $order) :
 ?>

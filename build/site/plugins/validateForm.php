@@ -82,12 +82,12 @@ function addToStructure($p, $field, $data = array()) {
     }
 
     // if successful, add success message to $response array
-    $response['success'] = "<h3>Ihre Bestellung war erfolgreich!</h3>";
+    $response['success'] = "<h3>Die Anfrage wurde versendet - wir melden uns so schnell wie möglich!</h3>";
 
   } catch(Exception $e) {
 
     // if it fails, add error message to $response array
-    $response['error'] = 'Ihre Bestellung ist fehlgeschlagen: ' . $e->getMessage();
+    $response['error'] = 'Es ist ein Fehler aufgetreten: ' . $e->getMessage();
 
   }
 

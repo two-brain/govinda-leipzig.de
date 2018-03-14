@@ -1,11 +1,11 @@
 <?php if(!isset($response['success'])) :  ?>
   <hr>
-  <h2>Bestellformular</h2>
+  <h2>Kontaktformular</h2>
   <form class="form" action="<?= $page->url() ?>" method="post">
     <div class="wrap clearfix">
       <div class="form__item">
         <label for="full_name">Name:<span class="required"> (erforderlich)</span></label>
-        <input type="text" id="full_name" name="full_name" placeholder="Wer bestellt?" value="<?= isset($data['full_name']) ? $data['full_name'] : '' ?>" required />
+        <input type="text" id="full_name" name="full_name" placeholder="Wer fragt an?" value="<?= isset($data['full_name']) ? $data['full_name'] : '' ?>" required />
         <div class="alert"><?php if(isset($response['errors']['full_name'])) { echo $response['errors']['full_name']; } ?></div>
       </div>
 
@@ -17,7 +17,7 @@
 
       <div class="form__item">
         <label for="telefon">Telefon:</label>
-        <input type="text" id="telefon" name="telefon" placeholder="Sind Sie telefonisch erreichbar?" value="<?= isset($data['telefon']) ? $data['telefon'] : '' ?>"/>
+        <input type="text" id="telefon" name="telefon" placeholder="Mit Telefonnummer geht's schneller!" value="<?= isset($data['telefon']) ? $data['telefon'] : '' ?>"/>
       </div>
 
       <div class="form__item">
@@ -39,7 +39,7 @@
 
     <div>
       <label for="nachricht">Nachricht:<span class="required"> (erforderlich)</span></label>
-      <textarea name="nachricht" id="nachricht" placeholder="Wir freuen uns auf Ihre Bestellung!"><?= isset($data['nachricht']) ? $data['nachricht'] : '' ?></textarea>
+      <textarea name="nachricht" id="nachricht"><?= isset($data['nachricht']) ? $data['nachricht'] : '' ?></textarea>
       <div class="alert"><?php if(isset($response['errors']['nachricht'])) { echo $response['errors']['nachricht']; } ?></div>
     </div>
 
@@ -48,7 +48,7 @@
        <input type="website" name="website" id="website" placeholder="http://example.com" value="<?= isset($data['website']) ? $data['website'] : '' ?>"/>
     </div>
 
-    <button class="button" type="submit" name="order" value="Bestellen">Bestellen</button>
+    <button class="button" type="submit" name="order" value="Absenden">Absenden</button>
 
   </form>
 <?php endif ?>

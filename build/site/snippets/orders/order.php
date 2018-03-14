@@ -11,4 +11,4 @@ Datum: <?= $datum ?>
 
 Art: <?= $art ?>
 
-rein vegan: <?php e($vegan == 'ja', '👍', '👎') ?>
+rein vegan: <?php e($vegan == 'ja', 'ja', 'nein') ?>
