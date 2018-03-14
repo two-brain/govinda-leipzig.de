@@ -1,10 +1,11 @@
 $about-us-green: #789417;
 $about-us-green--hover: $orange;
 $about-us-link-dimension: 115px;
-$about-us-link-left: -20px;
+$about-us-link-left: -15px;
 $about-us-link-top: -30px;
 $facebook-link-dimension: 40px;
 $facebook-link-right: -30px;
+$facebook-link-right--tablet: -10px;
 $facebook-link-top: 10px;
 $facebook-blue: #3b5998;
 $facebook-blue--hover: #29487d;
@@ -38,11 +39,34 @@ $facebook-blue--hover: #29487d;
 
   &.facebook {
     top: $facebook-link-top;
-    right: $facebook-link-right;
+    right: $facebook-link-right--tablet;
+
+    @include grid-media($large) {
+      right: $facebook-link-right;
+    }
+
+    span {
+      color: $facebook-blue;
+      font-weight: 700;
+      display: none;
+
+      @include grid-media($medium) {
+        display: inline;
+      }
+    }
+
+    strong {
+      display: none;
+
+      @include grid-media($large) {
+        display: inline;
+      }
+    }
 
     svg {
       width: $facebook-link-dimension;
       height: $facebook-link-dimension;
+      vertical-align: middle;
 
       path {
         fill: $facebook-blue;
