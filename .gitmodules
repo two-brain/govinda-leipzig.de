@@ -25,3 +25,6 @@
 [submodule "build/site/plugins/logger"]
 	path = build/site/plugins/logger
 	url = https://github.com/texnixe/kirby-logger.git
+[submodule "build/site/plugins/kirby-sri"]
+	path = build/site/plugins/kirby-sri
+	url = https://github.com/S1SYPHOS/kirby-sri.git

@@ -19,6 +19,7 @@ c::set('cache.ignore', array(
   'catering/unverbindliche-anfrage',
   'sitemap'
 ));
+c::set('plugin.kirby-sri', true);
 
 /*
 
