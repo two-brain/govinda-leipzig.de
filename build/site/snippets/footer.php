@@ -31,17 +31,7 @@
       </nav>
     </footer>
 
-    <?php if(c::get('env') == 'development') : ?>
-
-      <?= js('assets/scripts/main.js') ?>
-
-    <?php else : ?>
-
-      <script type="text/javascript">
-        <?= (new Asset('assets/scripts/main.js'))->content() ?>
-      </script>
-
-    <?php endif ?>
+    <?= js('assets/scripts/main.js') ?>
 
     <?php if($page->uid() == 'unverbindliche-anfrage') : ?>
 
