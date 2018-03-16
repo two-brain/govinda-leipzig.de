@@ -19,7 +19,6 @@ Promo:
     vegetarischen Speisen verbinden
     westliche Gepflogenheiten mit der
     kulinarischen Tradition Indiens.
-  category: unser-angebot
   link: unser-angebot
 -
   title: Catering
@@ -27,31 +26,33 @@ Promo:
   text: >
     Geburtstag, Hochzeit, Tagung oder
     Firmenjubiläum – wir sorgen für das
-    kulinarische Wohl Eurer Gäste. Nach
+    kulinarische Wohl eurer Gäste. Nach
     einer individuellen Beratung und Auswahl
     der Speisen kreieren wir mit hohem
     Qualitätsanspruch das Buffet, gern auch
     rein vegan oder in Bio-Qualität.
-  category: ""
   link: catering
 -
   title: Galerie
   image: promo-galerie.jpg
   text: >
-    Wir bieten schonend zubereitete,
-    vegetarische Kost für Kinder, die
-    wertvoll und abwechslungsreich ist. Die
-    von uns gelieferten Speisen sind
-    kindgerecht und werden täglich
-    unmittelbar vor dem Ausliefern mit
-    frischen, saisonalen Zutaten zubereitet.
-  category: ""
+    Das Auge isst bekanntlich mit! In unserer
+    Galerie findet ihr Schnappschüsse unserer
+    Klassiker, von frischen Salaten und Vorspeisen
+    über Hauptgerichte bishin zu unvergleichlichen
+    Snacks und Desserts - das regt den Appetit an
+    und gibt euch einen Vorgeschmack!
   link: galerie
 -
   title: Festivals
   image: promo-festivals.jpg
-  text: 'Mit unserem farbenfrohen Imbisswagen oder lauschigem Festivalzelt samt unseren leckeren Speisen besuchen wir auch Euer Event. Unser Team besteht aus sympatischen, miteinander eingespielten Leuten und arbeitet ganz nach dem Motto: We rock it!'
-  category: ""
+  text: >
+    Mit unserem farbenfrohen Imbisswagen oder
+    lauschigem Festivalzelt samt unseren leckeren
+    Speisen besuchen wir auch euer Event. Unser
+    Team besteht aus sympatischen, miteinander
+    eingespielten Leuten und arbeitet ganz nach
+    dem Motto: We rock it!
   link: festivals
 
 ----
