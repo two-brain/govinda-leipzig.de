@@ -3,6 +3,7 @@
 // Includes
 
 include kirby()->roots()->config() . '/license.php';
+include kirby()->roots()->config() . '/routes.php';
 include kirby()->roots()->config() . '/languages.php';
 include kirby()->roots()->config() . '/media.php';
 include kirby()->roots()->config() . '/plugins.php';
