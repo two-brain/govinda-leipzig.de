@@ -2,7 +2,7 @@ Title: Unsere AGBs
 
 ----
 
-Text: 
+Text:
 
 # Allgemeine Geschäftsbedingungen
 
@@ -51,7 +51,7 @@ Beanstandungen des Kunden wegen Mängeln oder Mengenabweichungen durch Govinda v
 ---
 
 ## 7. Vergütung und Zahlungsbedingungen
-7.1. Govinda Catering behält sich vor, mit Annahme ihres Angebots durch den Kunden 30 % der Vertragssumme als Vorauszahlung zu verlangen. Macht Govinda Catering von diesem Recht Gebrauch und ist diese Vorauszahlung nicht 14 Tage nach Zugang einer entsprechenden Aufforderung an den Kunden, spätestens jedoch 14 Tage vor der Veranstaltung eingegangen, ist Govinda Catering zum Rücktritt vom Vertrag und zur Geltendmachung von Schadensersatz wegen Nichterfüllung berechtigt. Bei der Zahlungsanweisung sind das Datum und der Name der Veranstaltung anzugeben.
+7.1. Govinda Catering behält sich vor, mit Annahme eines Angebots durch den Kunden 30% der Vertragssumme als Vorauszahlung zu verlangen. Macht Govinda Catering von diesem Recht Gebrauch und ist diese Vorauszahlung nicht 14 Tage nach Zugang einer entsprechenden Aufforderung an den Kunden, spätestens jedoch 14 Tage vor der Veranstaltung eingegangen, ist Govinda Catering zum Rücktritt vom Vertrag und zur Geltendmachung von Schadensersatz wegen Nichterfüllung berechtigt. Bei der Zahlungsanweisung sind das Datum und der Name der Veranstaltung anzugeben.
 
 7.2. Eine Fakturierung ins Ausland ist nur nach vorheriger Abstimmung mit Govinda Catering möglich.
 
@@ -85,22 +85,22 @@ wirtschaftlich möglichst gleichartige Bestimmung zu ersetzen. Entsprechendes gi
 
 ----
 
-Side: 
+Side:
 
-- 
+-
   text: |
     ### Download
-    Sie können unsere AGBs auch als PDF-Datei (file: agb_govinda-vegan-vegetarisch.pdf text: herunterladen).
-- 
+    Ihr könnt unsere AGBs auch als PDF-Datei (file: agb_govinda-vegan-vegetarisch.pdf text: herunterladen).
+-
   text: |
     ### Geschäftsführung / Postadresse
     Peter Panstingl
     Zum Oberdorf 4
     04838 Jesewitz
-    
+
     info@govinda-leipzig.de
     Mobil: 0178 - 19 108 64
-- 
+-
   text: |
     ### Kontakt Catering
     Daniel Fiskal
@@ -109,15 +109,15 @@ Side:
 
 ----
 
-Banner: 
+Banner:
 
 ----
 
-Gallery: 
+Gallery:
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Allgemeine Geschäftsbedingungen von Govinda Leipzig"

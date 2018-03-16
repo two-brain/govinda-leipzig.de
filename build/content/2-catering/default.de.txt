@@ -44,7 +44,7 @@ Side:
 -
   text: |
     ### Hautnah dabei
-    Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
+    Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/kulinarische-eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
 
 ----
 
@@ -65,4 +65,4 @@ Seo:
 
 -
   seo-title: "Govinda Leipzig - Vegan + Vegetarisches Catering mal anders!"
-  seo-description: "Mit internationalen Spezialitäten für jeden Anlass sorgen wir für das kulinarische Wohl Ihrer Gäste - gern auch rein vegan oder in bester Bio-Qualität."
+  seo-description: "Mit internationalen Spezialitäten für jeden Anlass sorgen wir für das kulinarische Wohl eurer Gäste - gern auch rein vegan oder in bester Bio-Qualität."

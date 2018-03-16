@@ -20,7 +20,7 @@ Side:
 - 
   text: |
     ### Hautnah dabei
-    Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
+    Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/kulinarische-eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
 - 
   text: |
     ### Lust bekommen?

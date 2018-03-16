@@ -1,4 +1,4 @@
-Tab1: 
+Tab1:
 
 ----
 
@@ -6,11 +6,11 @@ Title: Wir über uns
 
 ----
 
-Banner: 
+Banner:
 
 ----
 
-Text: 
+Text:
 
 # Über uns & die Govinda-Produktlinie
 Wir leben auf einem Bauernhof nahe Leipzig (im weltberühmten Ochelmitz :-) und haben jetzt hier eine größere gewerbliche Küche, sodaß wir unsere Aufträge bestens erfüllen können.
@@ -28,41 +28,41 @@ Wir wollen am liebsten Produkte verkaufen, die regional, biologisch und mit Lieb
 
 ----
 
-Tab2: 
+Tab2:
 
 ----
 
-Tab3: 
+Tab3:
 
 ----
 
-Seo: 
+Seo:
 
 -
-  seo-title: "Backen macht glücklich: Eigenprodukte von Govinda Leipzig!"
+  seo-title: "Backen macht glücklich - Eigenprodukte von Govinda Leipzig!"
   seo-description: "Vom Saatgut bis zum veredelten Endprodukt: unsere leckeren Riegel und Kekse sind regional, biologisch und mit Liebe gemacht - einfach schmecken lassen!"
 
 ----
 
-Classics: 
+Classics:
 
-- 
+-
   title: 'Energieschub und leckerer Snack - die Riegel'
   image: ""
   text: |
     Ausschließlich köstlich vegan, glutenfrei, ohne Zuckerzusatz, ohne künstliche Zusatzstoffe.
-    
+
     Diese Energiespender sind handgefertigt aus besten natürlichen Zutaten und in vielen verschiedenen Sorten erhältlich. Von Apfel/Chia, Feige und Aprikose bis zu Dattel mit Amaranth Pops.
   thumbs: |
     - riegel1.jpg
     - riegel2.jpg
     - sweets1.jpg
-- 
+-
   title: 'Backen macht satt und glücklich - die Kekse'
   image: ""
   text: |
     Eigenes Bio-Getreide, beste Bio-Backzutaten (Vollrohrzucker,Trockenfrüchte, Kokosraspeln)  und ein super Ofen ..
-    
+
     .. richtig! Diese Kombination schreit nach vielen leckeren Keksen. Wir habe tolle Rezepte zusammengetragen und unser Gebäck hat schon so manchem Festivalgast oder Marktstandbesucher den Tag versüßt. Backen macht glücklich. Nicht nur in der Weihnachtszeit!
   thumbs: |
     - cookies.jpg

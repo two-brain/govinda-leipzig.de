@@ -2,7 +2,7 @@ Title: Festivals
 
 ----
 
-Text: 
+Text:
 
 # We rock it!
 Mit unserem farbenfrohen Imbisswagen oder lauschigen Festivalzelt samt unseren leckeren Speisen besuchen wir auch Euer Event. Einige Jahre Erfahrung in der Verköstigung diverser Festivals, Straßenfeste oder Messen sprechen für eine schnelle, kompetente und geschmackvolle Umsetzung vor Ort. Unser eingespieltes Festivalteam besteht aus sympathischen jungen Leuten.
@@ -11,20 +11,20 @@ Mit unserem farbenfrohen Imbisswagen oder lauschigen Festivalzelt samt unseren l
 
 ----
 
-Side: 
+Side:
 
-- 
+-
   text: |
     ### Ansprechpartner
     Peter Panstingl
     info@govinda-leipzig.de
     Telefon: 0341 - 35138983
     Mobil: 0178 - 1910864
-- 
+-
   text: |
     ### Immer unterwegs
     Wenn ihr wissen wollt, welche Festivals wir besuchen, dann schaut auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes) vorbei!
-- 
+-
   text: |
     ### Lust bekommen?
     Holt euch ein unverbindliches Angebot - hier geht's zu unserem (link: /catering/unverbindliche-anfrage/ text: Kontaktformular).
@@ -35,7 +35,7 @@ Banner: header-festivals.jpg
 
 ----
 
-Gallery: 
+Gallery:
 
 - festival-galerie-01.jpg
 - festival-galerie-02.jpg
@@ -58,8 +58,8 @@ Gallery:
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Mit Imbisswagen auf Festivaltour - Govinda Leipzig ROCKT!"
-  seo-description: "Wir lieben Festivals, Straßenfeste und Messen - unser eingespieltes Festivalteam sorgt für schnelle & geschmackvolle Verköstigung Ihrer Besucher - yeah!"
+  seo-description: "Wir lieben Festivals, Straßenfeste und Messen - unser eingespieltes Festivalteam sorgt für schnelle & geschmackvolle Verköstigung aller Besucher - yeah!"

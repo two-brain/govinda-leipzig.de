@@ -2,7 +2,7 @@ Title: Angebot
 
 ----
 
-Text: 
+Text:
 
 # Unsere Klassiker - aus Indien und der Welt!
 Habt ihr schon mal Samosas oder Laddhus probiert? Wir lieben die alte indische Kochkunst mit ihrer unvergänglichen Weisheit. Bei all unseren Speisen richten wir uns nach Euch. Wir verbinden westliche Gepflogenheiten mit der kulinarischen Tradition Indiens, lassen uns im Orient inspirieren und stimmen unser Essen auf den abendländischen Geschmack ab. Wir kochen gerne mal gutbürgerlich und mediterran an einem Tag und Herausforderungen stimmen uns neugierig.
@@ -13,60 +13,60 @@ Banner: header-unser-angebot.jpg
 
 ----
 
-Classics: 
+Classics:
 
-- 
+-
   title: Curry
   image: 00-curry1.jpg
   text: |
     Damit ist nicht etwa eine Gewürzmischung gemeint,  sondern verschiedene Gemüsegerichte der südasiatischen und südostasiatischen Küche mit leckerer Soße und verschiedenen Gewürzen - gepaart mit Reis, Quinoa, Couscous, Nudeln oder Kartoffeln, aber auch als Grillgemüse, Lasagne, Gemüseschnitzel sowie Auflauf! Wir bieten feine Variationen mit cremigen Soßen, gerösteten Nüssen und unseren eigenen Gewürzkreationen.
-    
+
     Übrigens: Die verwendeten Gewürzmischungen sind in Indien eine Art Prestigeobjekt - jede Familie und jeder Koch hat seine eigene Version. Dabei variiert die Anzahl der verschiedenen Gewürze, gleichzeitig ist auch die Gewichtung der einzelnen Gewürze individuell.
   thumbs: |
     - 01-curry-one.jpg
     - 01-curry-two.jpg
     - 01-curry-three.jpg
-- 
+-
   title: 'Samosas & Pakoras'
   image: 00-pakoras.jpg
   text: |
     Fingerfood ist beliebter denn je - wir haben die besten Leckereien rausgesucht und bieten sie euch mit verschiedenen selbstgemachten Chutneys & Dips an, etwa Korianderwürfel, Pizza-Quadrate, Blätterteigtaschen und mehr - diese Snacks sind außergewöhnlich. Vor allem an diesen beiden kommt keiner vorbei:
-    
+
     Verschiedenste Gemüse werden in einem würzigen Kichererbsenmehlteig gebacken, und schon  gibt es leckere Pakoras! Gefüllte Teigtaschen hingegen gibt es fast überall auf der Welt mit verschiedenen Namen und Füllungen. Wir kneten den Teig selbst und mit frischem Gemüse, Kräutern und Gewürzen sind unsere Samosas der Hit. Für die Füllung verwenden wir sowohl hausgemachten gebratenen Paneer als auch Räuchertofu.
   thumbs: |
     - 02-pakoras-one.jpg
     - 02-samosas-two.jpg
     - 02-mango-chutney-three.jpg
-- 
+-
   title: 'Dal- und Gemüsecremesuppen'
   image: 00-cala-150730.jpg
   text: |
     Dal ist ein Gericht, das vorwiegend aus Hülsenfrüchten zubereitet wird, etwa verschiedenen Linsen, aber auch Kichererbsen, Bohnen oder Erbsen. Geschält oder im Ganzen ergeben unterschiedliche Sorten und abwechslungsreiche Gewürzkombinationen die schönsten Farben und Geschmacksrichtungen.
-    
+
     Proteinlieferant und Vollwertkost - ob als Vorsuppe oder Beilage, Dal gibt es bei uns in verschiedenen Arten. Als klare Suppe mit gerösteter Kokosnuss und frischen Tomaten oder als "Sambar", etwas dicker mit Tamarinde und knackigem Gemüse. Wir bieten euch immer wieder was Neues an!
   thumbs: |
     - 03-dal-one.jpg
     - 03-dal-two.jpg
     - 03-dal-three.jpg
-- 
+-
   title: 'Burfi, Laddhu & Simply Wonderful'
   image: 00 erol-ahmed.jpg
   text: |
     Steht eine kleine Süßigkeit am Beginn einer Mahlzeit, etwa unsere indischen Pralinen, steigert dies noch den Appetit - das Verdauungsfeuer wird geschürt! Wir zaubern aus Mandeln, Carob, geröstetem Kichererbsenmehl, Karamell, Vanille , Safran und vielen anderen erlesenen Zutaten besonderes Konfekt, Desserts (auch im Gläschen), Muffins, Kuchen, Torten und Cookies.
-    
+
     Ob fruchtig mit Cremehaube, schokoladig mit karamellisierten Pekannüssen, Schichtdessert mit Bananen und Datteln oder auch Tiramisu "classico", Heidelbeer-Mascarpone-Traum ... unser Repertoire ist nicht unendlich – aber fast! Habt ihr schonmal Halava, ein Grießdessert mit Rosinen, Safran und geriebener Orange, probiert?
   thumbs: |
     - 04-sweets-one.jpg
     - 04-dessert-glas-two.jpg
     - 04-torte-three.jpg
-- 
+-
   title: >
     Antipasti, kalte Platten und
     Obstvariationen
   image: brenda-godinez-228181.jpg
   text: |
     Ihr könnt zu eurem Buffet liebevoll von uns angerichtete Platten und Salate bekommen, und dass wir nur die besten Zutaten verwenden, schmeckt man - und unsere Freude am Dekorieren ist ersichtlich! Das Auge isst bekanntlich mit und wir haben schon sehr oft gehört, dass die Optik und der Geschmack unserer Platten noch lange, lange in Erinnerung bleiben.
-    
+
     Zumeist steigert sich bei solch ansprechenden kalten Platten sofort der Appetit, also seht Euch vor  :-)
   thumbs: |
     - 05-salad-one.jpg
@@ -75,15 +75,15 @@ Classics:
 
 ----
 
-Seo: 
+Seo:
 
 -
   seo-title: "Klassiker der indischen Küche | Govinda vegetarisch + vegan!"
-  seo-description: "Erfahren Sie mehr über die Klassiker indischer Küche. Wir laden Sie herzlich ein, die Vielfalt der vedischen Kochkunst kennen und lieben zu lernen!"
+  seo-description: "Erfahrt mehr über die Klassiker indischer Küche: Wir laden euch herzlich ein, die Vielfalt der vedischen Kochkunst kennen und lieben zu lernen!"
 
 ----
 
-Outro: 
+Outro:
 
 ### Natürlich gibt es bei uns noch vieles mehr!
 .. zum Beispiel gebratene Käsesteaks, Chilli sin Carne, Veganer Zigeuner Gulasch, Deutscher Kartoffelsalat und verschiedene Quiche. Auch Vollkornwraps, Brotkörbe mit rustikalem Bauernbrot, pfiffige Grissinis mit Dips, Fladenbrot oder verschieden belegte Brötchen. Wir stellen  unsere Aufstriche selber her und bringen Euch alles liebevoll garniert mit vitaminreichen Sprossen und knackigem Gemüse. Niemals gewöhnlich und immer frisch!

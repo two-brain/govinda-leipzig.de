@@ -12,7 +12,7 @@ Promo:
   title: Angebot
   image: promo-unser-angebot.jpg
   text: >
-    Habt Ihr schon mal Pakoras oder Laddhus
+    Habt ihr schon mal Pakoras oder Laddhus
     probiert? Wir lieben die alte indische
     Kochkunst mit ihrer unvergänglichen
     Weisheit. Unsere rein veganen und
@@ -60,4 +60,4 @@ Seo:
 
 -
   seo-title: "Die Weisheit indischer Kochkunst - gibt's bei Govinda Leipzig!"
-  seo-description: "Bewusst genießen: Vegan + vegetarisches Catering für Ihre Veranstaltung - wir verbinden westliche Gepflogenheiten mit der kulinarischen Tradition Indiens!"
+  seo-description: "Bewusst genießen: Vegan + vegetarisches Catering für jede Veranstaltung - wir verbinden westliche Gepflogenheiten mit der kulinarischen Tradition Indiens!"
