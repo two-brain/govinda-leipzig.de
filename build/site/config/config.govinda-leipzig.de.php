@@ -16,7 +16,8 @@ c::set('debug', false);
 c::set('thumbs.driver', 'gd');
 c::set('cache', true);
 c::set('cache.ignore', array(
-  'catering/unverbindliche-anfrage'
+  'catering/unverbindliche-anfrage',
+  'sitemap'
 ));
 
 /*
