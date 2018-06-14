@@ -18,7 +18,7 @@ $dark-gray: #4a4a4a;
 $medium-gray: #999;
 $light-gray: #eee;
 $white: #fff;
-$green: #99a623;
+$green: #789417;
 $light-green: #b7c065;
 $red: #ab251a;
 $light-red: #c4665e;
@@ -55,15 +55,15 @@ $base-timing: ease;
 // Signature Colors
 $signature-colors: (
   'unser-angebot': $red,
-  'catering': $brown,
-  'galerie': $deep-orange,
-  'festivals': $orange
+  'catering': $green,
+  'festivals': $brown,
+  'galerie': $orange
 );
 
 // Navigation-related Colors
-$header-nav-slug: unser-angebot, catering, galerie, festivals;
-$header-nav-bg-colors: $red, $brown, $deep-orange, $orange;
-$header-nav-link-colors: $light-red, $light-brown, $light-deep-orange, $light-orange;
+$header-nav-slug: unser-angebot, catering, festivals, galerie;
+$header-nav-bg-colors: $red, $green, $orange, $brown;
+$header-nav-link-colors: $light-red, $light-green, $light-orange, $light-brown;
 
 // Breakpoints
 $small-screen: 480px;
