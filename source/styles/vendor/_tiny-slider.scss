@@ -32,6 +32,10 @@
     height: 118px;
   }
 
+  &.tns-nav-active {
+    display: none;
+  }
+
   &::after {
     content: '';
     position: absolute;
@@ -49,7 +53,7 @@
       background: $signature-color;
     }
   }
-  
+
   &.tns-nav-active::after,
   &:hover::after {
     opacity: 0;
