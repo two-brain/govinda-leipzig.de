@@ -1,10 +1,10 @@
     </main>
     <footer class="site-footer">
       <div class="footer-details">
-        <?php
-          // (new Asset('assets/images/flame.svg'))->content()
-        ?>
-        <strong><?= $site->title() ?></strong>
+        <a class="facebook" href="<?= $site->facebook() ?>" title="Besucht uns auf Facebook!" alt="Facebook-Logo" target="_blank">
+          <?= (new Asset('assets/images/facebook-big.svg'))->content() ?>
+          <strong>Schaut auf Facebook vorbei!</strong>
+        </a>
       </div>
       <nav class="footer-nav">
         <ul class="secondary-links inline">
@@ -23,10 +23,6 @@
           <li><a href="mailto:<?= $site->mail() ?>">
             <?= (new Asset('assets/images/mail.svg'))->content() ?>
             </a></li>
-
-          <li><a href="<?= $site->facebook() ?>" title="Besucht uns auf Facebook!" alt="Facebook-Logo" target="_blank">
-            <?= (new Asset('assets/images/facebook.svg'))->content() ?>
-          </a></li>
         </ul>
       </nav>
     </footer>

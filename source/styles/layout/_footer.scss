@@ -1,4 +1,7 @@
 $secondary-links-font-size: 12px;
+$facebook-logo-size: 40px;
+$facebook-blue: #3b5998;
+$facebook-blue--hover: #29487d;
 
 .site-footer {
   border-top: $base-border;
@@ -65,6 +68,26 @@ $secondary-links-font-size: 12px;
       .#{$site-slug} &:hover {
         color: $signature-color
       }
+    }
+  }
+}
+
+.facebook {
+  color: $facebook-blue;
+  border: 0;
+
+  &:hover {
+    color: $facebook-blue--hover;
+  }
+
+  svg {
+    width: $facebook-logo-size;
+    height: $facebook-logo-size;
+    vertical-align: middle;
+    margin-right: 5px;
+
+    path {
+      fill: currentColor;
     }
   }
 }
