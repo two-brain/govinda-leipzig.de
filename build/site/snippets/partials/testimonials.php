@@ -1,3 +1,4 @@
+<?php if($site->testimonials()->isNotEmpty()) : ?>
 <section class="testimonials">
   <?php $testimonial = $site->testimonials()->toStructure()->shuffle()->first(); ?>
   <div class="quote">
@@ -7,3 +8,4 @@
     <cite><?= $testimonial->customer()->html() ?></cite>
   </div>
 </section>
+<?php endif ?>
