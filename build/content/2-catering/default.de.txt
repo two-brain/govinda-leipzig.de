@@ -2,16 +2,17 @@ Title: Catering
 
 ----
 
-Text:
+Text: 
 
 # Catering einmal anders!
-Wir stellen euch für jeden Anlass eine reiche Auswahl internationaler Spezialitäten zusammen. Überrascht eure Gäste mit einem Geschmackserlebnis der besonderen Art! Dabei greifen wir aus Überzeugung auf frische und gesunde Zutaten zurück: mindestens 20% bio bei Gemüse, Obst & Zucker etc sowie vorrangig regionale Erzeugnisse - auf Wunsch auch mehr!
+Wir stellen euch für jeden Anlass eine reiche Auswahl internationaler Spezialitäten zusammen. Überrascht eure Gäste mit einem Geschmackserlebnis der besonderen Art! Dabei greifen wir aus Überzeugung auf frische und gesunde Zutaten zurück.
 
 ---
 
 ## Auf Wunsch
-- ausschließlich vegan oder in Bio-Qualität
-- gerne übernehmen wir nur den vegetarischen Teil eines Buffets
+- ausschließlich vegan 
+- Fokus auf saisonal/regional
+- gerne übernehmen wir nur den vegan/vegetarischen Teil eines Buffets
 - Buffetaufbau vor Ort
 - Bereitstellung von Servicepersonal
 - Geschirr und Partyzubehör auf Anfrage
@@ -19,29 +20,26 @@ Wir stellen euch für jeden Anlass eine reiche Auswahl internationaler Spezialit
 ---
 
 ## Unser Service
-- Lieferung nach Hause - auch im Umkreis von Leipzig
-- Mindestbestellwert von 100,00 € zzgl. der Mehrwertsteuer
+- Lieferung in Leipzig und Umgebung
+- Mindestbestellwert von 150,00 € zzgl. der Mehrwertsteuer
 - Man kann bei uns Geschirr, Besteck und Zubehör (Tischwäsche für Buffet oder Biertische u.a.) zu moderaten Preisen mieten - einfach nachfragen!
 
 ----
 
-Side:
+Side: 
 
--
+- 
   text: |
     ### Ansprechpartner
-    Daniel Fiskal
+    Dvaraka
+    (Daniel Fiskal)
     catering@govinda-leipzig.de
-    Telefon: 0178 - 3831551
-
-    Pradyumna (rein vegan)
-    MAIL@MAIL.de
-    Telefon: TELEFON
--
+    Telefon: 0178 - 3831551 oder 034241 - 580393
+- 
   text: |
     ### Lust bekommen?
     Holt euch ein unverbindliches Angebot - hier geht's zu unserem (link: /catering/unverbindliche-anfrage/ text: Kontaktformular).
--
+- 
   text: |
     ### Hautnah dabei
     Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/kulinarische-eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
@@ -52,7 +50,7 @@ Banner: header-catering.jpg
 
 ----
 
-Gallery:
+Gallery: 
 
 - tischwaesche.jpg
 - stehtisch.jpg
@@ -61,7 +59,7 @@ Gallery:
 
 ----
 
-Seo:
+Seo: 
 
 -
   seo-title: "Govinda Leipzig - Vegan + Vegetarisches Catering mal anders!"

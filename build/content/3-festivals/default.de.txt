@@ -1,0 +1,64 @@
+Title: Festivals
+
+----
+
+Text: 
+
+# Wir rocken euer Festival!
+Jahrelange Erfahrung in der Verköstigung diverser Festivals, Straßenfesten und Messen sprechen für eine schnelle, kompetente und geschmackvolle Umsetzung vor Ort. Unser eingespieltes Festivalteam besteht aus sympathischen jungen Leuten. Unsere Stärke ist, dass wir uns auf die jeweiligen Bedürfnisse der Veranstalter einstellen und mit große Vielfalt verschiedenster Köstlichkeiten aufwarten.
+
+---
+
+----
+
+Side: 
+
+- 
+  text: |
+    ### Ansprechpartner
+    Godruma
+    (Frank-Matthias Walz)
+    info@govinda-leipzig.de
+    Telefon: 034241 - 580393
+    Mobil: 0176 - 57985621
+- 
+  text: |
+    ### Immer unterwegs
+    Wenn ihr wissen wollt, welche Festivals wir besuchen, dann am besten einfach anrufen.
+- 
+  text: |
+    ### Lust bekommen?
+    Holt euch ein unverbindliches Angebot - hier geht's zu unserem (link: /catering/unverbindliche-anfrage/ text: Kontaktformular).
+
+----
+
+Banner: header-festivals.jpg
+
+----
+
+Gallery: 
+
+- festival-galerie-01.jpg
+- festival-galerie-02.jpg
+- festival-galerie-03.jpg
+- festival-galerie-04.jpg
+- festival-galerie-05.jpg
+- festival-galerie-07.jpg
+- festival-galerie-08.jpg
+- festival-galerie-09.jpg
+- festival-galerie-10.jpg
+- festival-galerie-11.jpg
+- festival-galerie-12.jpg
+- festival-galerie-13.jpg
+- festival-galerie-14.jpg
+- festival-galerie-16.jpg
+- festival-galerie-17.jpg
+- festival-galerie-18.jpg
+
+----
+
+Seo: 
+
+-
+  seo-title: "Mit Imbisswagen auf Festivaltour - Govinda Leipzig ROCKT!"
+  seo-description: "Wir lieben Festivals, Straßenfeste und Messen - unser eingespieltes Festivalteam sorgt für schnelle & geschmackvolle Verköstigung aller Besucher - yeah!"

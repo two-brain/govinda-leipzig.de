@@ -2,13 +2,13 @@ Title: Home
 
 ----
 
-Text:
+Text: 
 
 ----
 
-Promo:
+Promo: 
 
--
+- 
   title: Angebot
   image: promo-unser-angebot.jpg
   text: >
@@ -20,44 +20,27 @@ Promo:
     westliche Gepflogenheiten mit der
     kulinarischen Tradition Indiens.
   link: unser-angebot
--
+- 
   title: Catering
   image: promo-catering.jpg
-  text: >
-    Geburtstag, Hochzeit, Tagung oder
-    Firmenjubiläum – wir sorgen für das
-    kulinarische Wohl eurer Gäste. Nach
-    einer individuellen Beratung und Auswahl
-    der Speisen kreieren wir mit hohem
-    Qualitätsanspruch das Buffet, gern auch
-    rein vegan oder in Bio-Qualität.
+  text: 'Geburtstag, Hochzeit, Tagung oder Firmenjubiläum – wir sorgen für das kulinarische Wohl eurer Gäste. Nach einer individuellen Beratung und Auswahl der Speisen kreieren wir mit hohem Qualitätsanspruch das Buffet - gerne auch rein vegan, saisonal und regional.'
   link: catering
--
-  title: Galerie
-  image: promo-galerie.jpg
-  text: >
-    Das Auge isst bekanntlich mit! In unserer
-    Galerie findet ihr Schnappschüsse unserer
-    Klassiker, von frischen Salaten und Vorspeisen
-    über Hauptgerichte bishin zu unvergleichlichen
-    Snacks und Desserts - das regt den Appetit an
-    und gibt euch einen Vorgeschmack!
-  link: galerie
--
+- 
   title: Festivals
   image: promo-festivals.jpg
-  text: >
-    Mit unserem farbenfrohen Imbisswagen oder
-    lauschigem Festivalzelt samt unseren leckeren
-    Speisen besuchen wir auch euer Event. Unser
-    Team besteht aus sympatischen, miteinander
-    eingespielten Leuten und arbeitet ganz nach
-    dem Motto: We rock it!
+  text: |
+    Seit 2008 besuchen wir, mit ausgereiftem Equipment und gut geschultem Personal, verschiedene Festivals und Messen in ganz Deutschland.
+    In Zusammenarbeit mit den jeweiligen Veranstaltern, bieten wir ein breitgefächertes Repertoire an veganen und vegetarischen Köstlichkeiten
   link: festivals
+- 
+  title: Galerie
+  image: promo-galerie.jpg
+  text: 'Das Auge isst bekanntlich mit! In unserer Galerie findet ihr Schnappschüsse unserer Klassiker, von frischen Salaten und Vorspeisen über Hauptgerichte bis hin zu unvergleichlichen Snacks und Desserts - das regt den Appetit an und gibt euch einen Vorgeschmack!'
+  link: galerie
 
 ----
 
-Seo:
+Seo: 
 
 -
   seo-title: "Die Weisheit indischer Kochkunst - gibt's bei Govinda Leipzig!"

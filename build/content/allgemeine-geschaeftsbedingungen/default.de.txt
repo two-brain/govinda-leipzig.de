@@ -2,7 +2,7 @@ Title: Unsere AGBs
 
 ----
 
-Text:
+Text: 
 
 # Allgemeine Geschäftsbedingungen
 
@@ -28,7 +28,7 @@ Angebotene Preise sind Nettopreise und verstehen sich ohne der jeweils gültigen
 
 4.2. Der durch den Kunden angegebene und im Angebot durch Unterschrift bestätigte Leistungsumfang dient als Rechnungsgrundlage. Mehrungen im Leistungsumfang und der Getränkeumsatz werden nach dem tatsächlichen Anfall auf Grundlage der üblichen Eventpreise von Govinda Catering in Rechnung gestellt. Wir behalten uns vor, nicht vereinbarten Mehraufwand in Rechnung zu stellen.
 
-4.3. Meldet der Kunde Änderungen der Personenzahl um mehr als 10 %, - 14 Tage vor dem gebuchten Termin bei Veranstaltungen mit mehr als 30 Personen, bzw. - 7 Tage vor dem gebuchten Termin bei Veranstaltungen mit bis zu 30 Personen, so ist Govinda vegan + vegetarisch berechtigt, den sich aus der Reduzierung der Personenzahl ergebenden Schaden dem Kunden zu berechnen. Bei späteren Meldungen kann Govinda vegan + vegetarisch bei Minderungen der Personenzahl die volle vereinbarte Gegenleistung verlangen.
+4.3.  Meldet der Kunde eine Reduzierung der Personenzahl bis 14 Tage vor dem gebuchten Termin bei Veranstaltungen mit mehr als 30 Personen, bzw. - 10 Tage vor dem gebuchten Termin bei Veranstaltungen mit bis zu 30 Personen, so ist Govinda vegan + vegetarisch berechtigt, den sich aus der Reduzierung der Personenzahl ergebenden Schaden dem Kunden zu berechnen. Bei späteren Meldungen kann Govinda vegan + vegetarisch bei Minderungen der Personenzahl die volle vereinbarte Gegenleistung verlangen.
 
 4.4. Bei Veranstaltungen, die über die vereinbarte Zeit hinausgehen, berechnet Govinda vegan + vegetarisch einen Dienstleistungszuschlag pro Mitarbeiter auf der Basis des Stundenlohns von 20,00 € + 19 % der jeweiligen beanspruchten Mitarbeiter.
 
@@ -62,45 +62,39 @@ Beanstandungen des Kunden wegen Mängeln oder Mengenabweichungen durch Govinda v
 ## 8. Haftung
 8.1. Der Kunde haftet für alle Schäden an Gegenständen, die sich im Besitz von Govinda Catering befinden oder von Govinda vegan + vegetarisch eingebracht wurden und durch Veranstaltungsteilnehmer bzw. -besucher, Mitarbeiter oder sonstige Dritte aus dem Bereich des Kunden oder ihn selbst schuldhaft verursacht werden.
 
-8.2. Govinda vegan + vegetarisch kann vom Kunden die Stellung angemessener Sicherheiten (z.B.
-Versicherungen, Kautionen, Bürgschaften) Verlangen.
+8.2. Govinda vegan + vegetarisch kann vom Kunden die Stellung angemessener Sicherheiten (z.B. Versicherungen, Kautionen, Bürgschaften) Verlangen.
 
 8.3. Govinda Catering haftet für Schäden beim Kunden durch Pflichtverletzungen an anderen Rechtsgütern als Leben, Körper oder Gesundheit nur bei einer Verursachung in Folge grober Fahrlässigkeit oder Vorsatzes. Entstehen die Schäden durch eine Verletzung wesentlicher Vertragspflichten, haftet Govinda Catering auch im Falle einfacher Fahrlässigkeit.
 
 ---
 
 ## 9. Schlussbestimmungen
-9.1. Gerichtsstand ist Leipzig
+9.1. Gerichtsstand ist Eilenburg.
 
-9.2. Der Kunde kann gegenüber Forderungen der Govinda Catering nur mit unbestrittenen oder
-rechtskräftig festgestellten Gegenforderungen aufrechnen bzw. Insoweit ein Zurückbehaltungsrecht
-geltend machen.
+9.2. Der Kunde kann gegenüber Forderungen der Govinda Catering nur mit unbestrittenen oder rechtskräftig festgestellten Gegenforderungen aufrechnen bzw. Insoweit ein Zurückbehaltungsrecht geltend machen.
 
-9.3. Sollten einzelne Bestimmungen dieser Bedingungen ungültig oder undurchführbar sein oder werden,
-so bleiben der Vertrag als Ganzes und die übrigen Bestimmungen dieser Bedingungen wirksam.
+9.3. Sollten einzelne Bestimmungen dieser Bedingungen ungültig oder undurchführbar sein oder werden, so bleiben der Vertrag als Ganzes und die übrigen Bestimmungen dieser Bedingungen wirksam.
 
-9.4. Die Vertragsparteien sind verpflichtet, die ungültige/undurchführbare Bestimmung vom Beginn der
-Ungültigkeit/Undurchführbarkeit an unter Berücksichtigung der beiderseitigen Interessen durch eine
-wirtschaftlich möglichst gleichartige Bestimmung zu ersetzen. Entsprechendes gilt für Lücken.
+9.4. Die Vertragsparteien sind verpflichtet, die ungültige/undurchführbare Bestimmung vom Beginn der Ungültigkeit/Undurchführbarkeit an unter Berücksichtigung der beiderseitigen Interessen durch eine wirtschaftlich möglichst gleichartige Bestimmung zu ersetzen. Entsprechendes gilt für Lücken.
 
 ----
 
-Side:
+Side: 
 
--
+- 
   text: |
     ### Download
     Ihr könnt unsere AGBs auch als PDF-Datei (file: agb_govinda-vegan-vegetarisch.pdf text: herunterladen).
--
+- 
   text: |
     ### Geschäftsführung / Postadresse
-    Peter Panstingl
+    Daniel Fiskal
     Zum Oberdorf 4
     04838 Jesewitz
-
+    
     info@govinda-leipzig.de
-    Mobil: 0178 - 19 108 64
--
+    Mobil: 0178 - 383 1551
+- 
   text: |
     ### Kontakt Catering
     Daniel Fiskal
@@ -109,15 +103,15 @@ Side:
 
 ----
 
-Banner:
+Banner: 
 
 ----
 
-Gallery:
+Gallery: 
 
 ----
 
-Seo:
+Seo: 
 
 -
   seo-title: "Allgemeine Geschäftsbedingungen von Govinda Leipzig"

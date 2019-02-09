@@ -1,0 +1,87 @@
+Tab1: 
+
+----
+
+Title: Kulinarische Einblicke
+
+----
+
+Banner: 
+
+----
+
+Text: 
+
+# Kulinarische Eindrücke
+So, hier haben wir für euch einige Fotos von vergangenen Festen. Wir waren bei Konferenzen, Seminaren, Workshops, Geburtstagsfeiern, Einschulungen, Abschlussfeiern und Hochzeiten. Die Bilder sind zwischendurch entstanden, teilweise unter erheblichem Zeitdruck. Trotzdem sind sie nicht bearbeitet (kein Photoshop!) und nicht gestellt – authentisch und hoffentlich ein gutes Zeugnis :-)
+
+----
+
+Tab2: 
+
+----
+
+Gallery: 
+
+- 20180930-KRI_4082 Kopie.jpg
+- 20180930-KRI_4086 Kopie.jpg
+- 20180930-KRI_4087 Kopie.jpg
+- 20180930-KRI_4181 Kopie.jpg
+- 20180930-KRI_4183 Kopie.jpg
+- 20180930-KRI_4189 Kopie.jpg
+- 20180930-KRI_4190 Kopie.jpg
+- 20180930-KRI_4195 Kopie.jpg
+- Himbeerdessert Kopie.jpeg
+- IMG_0231 Kopie.JPG
+- IMG_20181027_193709 Kopie.jpg
+- IMG_20181027_193732 Kopie.jpg
+- IMG_20181027_193752 Kopie.jpg
+- IMG_20181120_142931.jpg
+- Samosas Kopie.jpg
+- SchwarzwälderCloseUp Kopie.jpg
+- SchwarzwälderStücke Kopie.jpg
+- SchwarzwälderCloseUp Kopie.jpg
+- ToffeePlatte Kopie.jpg
+- antipastiplatte.jpg
+- bunter-gartensalat.jpg
+- couscous-salat-tabouleh.jpg
+- cremedessert.jpg
+- desserbuffet.jpg
+- desserttisch.jpg
+- glaeschen.jpg
+- spiesse.jpg
+- toffeeplatte.jpg
+- zufriedenekunden.jpg
+
+----
+
+Tab3: 
+
+----
+
+Side: 
+
+- 
+  text: |
+    ### Unbedingt probieren
+    Vom Saatgut bis zum veredelten Endprodukt - bei unsere (link: ueber-uns text: Riegeln und Keksen) ist alles selbstgemacht!
+- 
+  text: |
+    ### Immer unterwegs
+    Wenn ihr wissen wollt, welche Festivals wir besuchen, dann schaut auf (link: https://www.facebook.com/pages/Govinda-Vegan-Vegetarisch/112828825406718?ref=hl text: Facebook) vorbei!
+- 
+  text: |
+    ### Lust bekommen?
+    Holt euch ein unverbindliches Angebot - hier geht's zu unserem (link: /catering/unverbindliche-anfrage/ text: Kontaktformular).
+
+----
+
+Tab4: 
+
+----
+
+Seo: 
+
+-
+  seo-title: "Höchster Genuss hat einen Namen - Govinda Leipzig!"
+  seo-description: "Ob Geburtstag, Einschulung, Konferenzen, Seminare, Hochzeiten .. wir begleiten jede Veranstaltung mit zeitlosen Klassikern und unvergesslichen Kreationen. "

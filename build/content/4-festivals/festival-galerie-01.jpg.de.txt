@@ -1,5 +1,0 @@
-Img_title: Erstes Bild
-
-----
-
-Img_desc: Viele Leute stehen vor dem Govinda-Stand.

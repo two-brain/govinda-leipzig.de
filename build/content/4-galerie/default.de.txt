@@ -1,0 +1,62 @@
+Title: Galerie
+
+----
+
+Text: 
+
+# Galerie
+Hier seht ihr eine Auswahl an Gerichten, die wir in unserem Angebot haben. Ihr könnt die Bilder anwählen und kleine Bemerkungen dazu lesen - und da unser Angebot mit der Zeit geht und nicht statisch ist, kann es immer mal sein, dass ein neues Rezept in unser Angebot aufgenommen wird und ein anderes rausfällt.
+
+---
+
+----
+
+Side: 
+
+- 
+  text: |
+    ### Unbedingt probieren
+    Vom Saatgut bis zum veredelten Endprodukt - bei unsere (link: ueber-uns text: Riegeln und Keksen) ist alles selbstgemacht!
+- 
+  text: |
+    ### Hautnah dabei
+    Schaut uns bei der Arbeit über die Schulter: Eindrücke vergangener Caterings (link: /galerie/kulinarische-eindruecke text: gibt's hier), Filme & Fotos außerdem auf (link: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718 text: Facebook popup: yes)!
+- 
+  text: |
+    ### Lust bekommen?
+    Holt euch ein unverbindliches Angebot - hier geht's zu unserem (link: /catering/unverbindliche-anfrage/ text: Kontaktformular).
+
+----
+
+Banner: header-galerie.jpg
+
+----
+
+Gallery: 
+
+- galerie-01.jpg
+- galerie-02.jpg
+- galerie-03.jpg
+- galerie-04.jpg
+- galerie-05.jpg
+- galerie-06.jpg
+- galerie-07.jpg
+- galerie-08.jpg
+- galerie-09.jpg
+- galerie-10.jpg
+- galerie-11.jpg
+- galerie-12.jpg
+- galerie-13.jpg
+- galerie-14.jpg
+- galerie-15.jpg
+- galerie-16.jpg
+- galerie-17.jpg
+- galerie-18.jpg
+
+----
+
+Seo: 
+
+-
+  seo-title: "Das Auge isst mit - am liebsten bei Govinda Leipzig!"
+  seo-description: "Unsere Speisen sind vieles - außer langweilig. Kommt mit auf eine bunte Reise durch die Welt des Geschmacks und überzeugt euch selbst in unserer Galerie."

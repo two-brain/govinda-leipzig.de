@@ -1,4 +1,4 @@
-Tab1:
+Tab1: 
 
 ----
 
@@ -6,21 +6,37 @@ Title: Wir über uns
 
 ----
 
-Banner:
+Banner: 
 
 ----
 
-Text:
+Text: 
 
 # Über uns & die Govinda-Produktlinie
-Wir leben auf einem Bauernhof nahe Leipzig (im weltberühmten Ochelmitz :-) und haben jetzt hier eine größere gewerbliche Küche, sodaß wir unsere Aufträge bestens erfüllen können.
+Wir leben auf einem Bauernhof nahe Leipzig (im weltberühmten Ochelmitz :-) und haben hier eine größere gewerbliche Küche, sodaß wir unsere Aufträge bestens erfüllen können.
 
-(image: ochelmitz.jpg)
+(image: govindafamilie.png)
 
 ---
 
 ## Das Govinda-Team
-Jeder hat sein eigenes Steckenpferd (Peter ist der Gründer & Weiterentwickler von Govinda und Koch aus Leidenschaft, Robert ist der MacGyver & Bio-Bauer, der im großen Stil bestes Bio-Getreide liefert. Godruma ist gelernter Handwerker, vor allem aber kein Kleingeist und daher unser Festivalkoch & 50.000-Leute-Versorger und Dwaraka kocht gerne mit kreativem Händchen und Auge fürs Detail - zusammen sind wir das Govinda-Team.
+Insgesamt zu Zehnt (plus Löwi, der Hund) bestehen wir aus drei Haushalten; leben und arbeiten manchmal zusammen und manchmal getrennt. Robert ist der Landwirt, der zusammen mit seinem Vater 300 ha Land bewirtschaftet. Dvaraka und Godruma kümmern sich um das Catering. Unsere Frauen helfen in mannigfaltiger Weise alles zusammenzuhalten und zu erweitern. 
+Ja die Erweiterungen: Momentan kommen die meisten Kinder hier aus der Ehe zwischen Robert und Franzi. Sie haben Zwillinge (Nitai und Ava) und den Erstgeborenen Dhira. Zu Dvaraka und Karuna gehört die fast zweijährige Nanda, die beim Fotoshooting leider verhindert war... 
+Bei Kamala und Godruma hat der Storch bisher noch niemanden vorbeigebracht...
+
+
+### Robert mit dem großen Dhira und Franzi mit dem kleinen Nitai
+
+(image: robertfranzi.png)
+
+### Dvaraka und Karuna
+
+(image: dddkaruna.png)
+
+### Kamala mit Ava und Godruma
+
+(image: ksdgd.png)
+
 
 ## Die Idee
 Vom Saatgut bis zum veredelten Endprodukt - alles selbstgemacht. Fantastisch!
@@ -28,15 +44,15 @@ Wir wollen am liebsten Produkte verkaufen, die regional, biologisch und mit Lieb
 
 ----
 
-Tab2:
+Tab2: 
 
 ----
 
-Tab3:
+Tab3: 
 
 ----
 
-Seo:
+Seo: 
 
 -
   seo-title: "Backen macht glücklich - Eigenprodukte von Govinda Leipzig!"
@@ -44,25 +60,29 @@ Seo:
 
 ----
 
-Classics:
+Classics: 
 
--
+- 
   title: 'Energieschub und leckerer Snack - die Riegel'
   image: ""
   text: |
     Ausschließlich köstlich vegan, glutenfrei, ohne Zuckerzusatz, ohne künstliche Zusatzstoffe.
-
+    
     Diese Energiespender sind handgefertigt aus besten natürlichen Zutaten und in vielen verschiedenen Sorten erhältlich. Von Apfel/Chia, Feige und Aprikose bis zu Dattel mit Amaranth Pops.
   thumbs: |
-    - riegel1.jpg
-    - riegel2.jpg
-    - sweets1.jpg
--
+    - img_20180601_115612.jpg
+    - img_20180601_120048.jpg
+    - img_20180601_115845.jpg
+    - img_20180601_120155.jpg
+    - img_20180601_120220.jpg
+    - img_20180601_120337.jpg
+    - img_20180601_120356.jpg
+- 
   title: 'Backen macht satt und glücklich - die Kekse'
   image: ""
   text: |
     Eigenes Bio-Getreide, beste Bio-Backzutaten (Vollrohrzucker,Trockenfrüchte, Kokosraspeln)  und ein super Ofen ..
-
+    
     .. richtig! Diese Kombination schreit nach vielen leckeren Keksen. Wir habe tolle Rezepte zusammengetragen und unser Gebäck hat schon so manchem Festivalgast oder Marktstandbesucher den Tag versüßt. Backen macht glücklich. Nicht nur in der Weihnachtszeit!
   thumbs: |
     - cookies.jpg
