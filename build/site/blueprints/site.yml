@@ -9,7 +9,11 @@ fields:
     type:  tabs
   orders: orders
   tab2:
-    label: Einstellungen 
+    label: Kundenmeinungen
+    type: tabs
+  testimonials: testimonials
+  tab3:
+    label: Einstellungen
     type:  tabs
   title:
     label: Name der Website

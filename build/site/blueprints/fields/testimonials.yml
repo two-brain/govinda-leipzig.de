@@ -1,0 +1,15 @@
+label: Kundenmeinungen
+type: structure
+modalsize: large
+entry: >
+  <strong>{{customer}}</strong> sagte:<br>
+  <em>{{testimonial}}</em>
+fields:
+  customer:
+    label: Name des Kunden
+    type: text
+    required: true
+  testimonial:
+    label: Zitat
+    type: textarea
+    required: true

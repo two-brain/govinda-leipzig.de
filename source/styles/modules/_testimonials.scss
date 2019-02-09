@@ -1,0 +1,18 @@
+.testimonials {
+  background-color: $green;
+  border-radius: $base-border-radius;
+  padding: 20px 30px;
+  margin: 40px 0;
+  text-align: center;
+  color: $white;
+
+  blockquote {
+    font-size: 1.125rem;
+  }
+}
+
+@each $site-slug, $signature-color in $signature-colors {
+  .#{$site-slug} .testimonials {
+    background-color: $signature-color;
+  }
+}

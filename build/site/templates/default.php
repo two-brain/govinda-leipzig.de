@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<div class="wrap">
+<div class="wrap clearfix">
   <section class="content">
     <?= $page->text()->kt() ?>
     <?php snippet('partials/gallery') ?>
