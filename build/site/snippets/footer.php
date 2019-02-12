@@ -1,4 +1,4 @@
-      <?php snippet('partials/testimonials') ?>
+      <?php if(!$page->isHomePage()) snippet('partials/testimonials') ?>
     </main>
     <footer class="site-footer">
       <div class="footer-details">

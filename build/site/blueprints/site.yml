@@ -23,3 +23,23 @@ fields:
     label: E-Mail
     type: email
     width: 1/3
+  team_image:
+    label: Team-Bild
+    type: image
+  team_members:
+    label: Mitglieder
+    type: imageannotator
+    src: team_image
+    entry: >
+      Mitglied: {{member}}
+    fields:
+      pin:
+        type: hidden
+      x:
+        type: hidden
+      y:
+        type: hidden
+      member:
+        label: Name
+        type: text
+        width: 1/2

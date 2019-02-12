@@ -10,9 +10,9 @@ Facebook: https://www.facebook.com/Govinda-vegan-vegetarisch-112828825406718
 
 ----
 
-Orders: 
+Orders:
 
-- 
+-
   full_name: Max Mustermann
   email: m.mustermann@musterstadt.de
   telefon: '0123 / 456 - 789'
@@ -21,19 +21,79 @@ Orders:
   vegan: ja
   nachricht: |
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    
+
     Beste Grüße,
     Max Mustermann
 
 ----
 
-Testimonials: 
+Testimonials:
 
-- 
-  customer: Frida Larsson
-  testimonial: Haha, echt gut!
-- 
-  customer: Gunnar Bergström
+-
+  customer: Max Mustermann
   testimonial: >
-    Nicht gerade meins, aber meine Frau
-    liebt es!
+    Lorem ipsum dolor sit amet, consectetur
+    adipisicing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna
+    aliqua.
+-
+  customer: Erika Musterfrau
+  testimonial: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipisicing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna
+    aliqua.
+
+----
+
+Team-image: govindafamilie.png
+
+----
+
+Team-members:
+
+-
+  pin: "1549754580590"
+  x: "0.025"
+  y: "0.45"
+  member: Dvaraka
+-
+  pin: "1549754602728"
+  x: "0.175"
+  y: "0.55"
+  member: Karuna
+-
+  pin: "1549754611327"
+  x: "0.325"
+  y: "0.475"
+  member: Ava
+-
+  pin: "1549754670314"
+  x: "0.35"
+  y: "0.625"
+  member: Kamala
+-
+  pin: "1549754698386"
+  x: "0.45"
+  y: "0.45"
+  member: Godruma
+-
+  pin: "1549754705125"
+  x: "0.6"
+  y: "0.575"
+  member: Franzi
+-
+  pin: "1549754731422"
+  x: "0.7"
+  y: "0.7"
+  member: Nitai
+-
+  pin: "1549754725420"
+  x: "0.8"
+  y: "0.575"
+  member: Robert
+-
+  pin: "1549754739565"
+  x: "0.875"
+  y: "0.45"
+  member: Dhira
